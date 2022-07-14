@@ -15,3 +15,6 @@ Thoughts on platforms and technologies<br>
 Datasource research <br>
 
 Calls at Tuesday - 7pm
+
+Repo and Dashboard resources:<br>
+https://github.com/OpenDataDE/State-zip-code-GeoJSON << GeoJSON for ZipCode boundaries for JS
