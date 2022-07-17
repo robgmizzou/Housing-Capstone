@@ -30,3 +30,26 @@ What do we expect the housing market to look like in the next few years?
 
 Repo and Dashboard resources:<br>
 https://github.com/OpenDataDE/State-zip-code-GeoJSON << GeoJSON for ZipCode boundaries for JS
+
+Schema used:
+CREATE TABLE properties (
+   zpid INT NOT NULL,
+	propertyType VARCHAR,
+	lotAreaValue FLOAT,
+	address VARCHAR,
+	city VARCHAR,
+	zip VARCHAR,
+	price INT,
+	bedrooms INT,
+	bathrooms INT,
+	livingArea INT,
+	lotAreaUnit VARCHAR,
+	latitude FLOAT,
+	longitude FLOAT
+);
+SELECT COUNT(*) FROM properties
+
+SELECT * FROM properties
+
+
+
