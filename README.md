@@ -1,20 +1,15 @@
 # Housing-Capstone
 
-071222 - Tuesday Call<br>
+The scope of this project is to review Wake County housing trends by zip code. We would like to review data over the last 60 months from June of 2017 through June of 2022 to identify changes in the market.
 
-Roles Assigned: <br>
-Machine Learning Model - Yolanda <br>
-Database - Marla <br>
-Repo and Dashboard - Robert <br>
+Group Members:
+Robert: Dashboard Lead
+Yolanda: Machine Learning Lead
+Marla: Database Lead
 
 Question Defined: <br>
 Wake County Housing Prices by zip code (potentially other key UI - city/town, school district?)<br>
 
-Actions:<br>
-Thoughts on platforms and technologies<br>
-Datasource research <br>
-
-Calls at Tuesday - 7pm
 
 Repo and Dashboard resources:<br>
 https://github.com/OpenDataDE/State-zip-code-GeoJSON << GeoJSON for ZipCode boundaries for JS
