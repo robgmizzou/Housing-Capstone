@@ -16,3 +16,5 @@ K-means will be used in an unsupervised learning model.
 
 Data set retrieval:
 Using Rapidapi.com, an API key was obtained to access Zillow.com in order to do a property search and to create a dataset to analyze. 
+
+A sample dataset was created to do exploratory analysis
