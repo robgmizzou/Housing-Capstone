@@ -6,11 +6,21 @@ The scope of this project is to review Wake County housing trends by zip code. W
 2. Apple's New Raleigh, NC Campus expected to bring in 3,000 new jobs.
 3. The expansion of the 540 expected to link Apex, Cary, Clayton, Garner, Fuquay-Varina, Holly Springs and Raleigh when fully operational.
 4. The Bus Rapid Transit project expected to be completed by 2030.
+5. Labor and supply chain shortages.
 
-### Group Members:
-Robert: Dashboard Lead <br>
-Yolanda: Machine Learning Lead <br>
-Marla: Database Lead <br>
+| Group Memmber | Role          | Responsibilities  |
+| ------------- | ------------- | ----------------- |
+| Robert        | Dashboard     | Manage the GitHub |
+|               | Lead          | Repository        |
+| ------------- | ------------- |-------------------|
+| Yolanda       | Machine       |Manage the Machine |
+|               | Learning Lead |Learning Model and |
+|               |               |Design             |
+ -------------  | ------------- | ----------------- |
+| Marla         | Database      |Manage the Database| 
+|               | Lead          |and ETL process    |
+| ------------- | ------------- |-------------------|
+
 
 ### Question to Answer:
 Wake County Housing Prices by zip code (potentially other key UI - city/town, school district?)<br>
