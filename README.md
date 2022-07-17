@@ -1,20 +1,15 @@
 # Housing-Capstone
 
-071222 - Tuesday Call<br>
+Team Seven - Marla, Yolanda, Robert<br>
 
-Roles Assigned: <br>
-Machine Learning Model - Yolanda <br>
-Database - Marla <br>
-Repo and Dashboard - Robert <br>
+Modeling Wake County Real Estate - Model to provide price estimate based on user inputs<br>
 
-Question Defined: <br>
-Wake County Housing Prices by zip code (potentially other key UI - city/town, school district?)<br>
+Data will be sourced from Zillow and weighed by parameter to estimate what a hypothetical (or real) property with the input characteristics should cost.  Historical data will be used from completed sales in Wake County over the past 24 months.<br>
 
-Actions:<br>
-Thoughts on platforms and technologies<br>
-Datasource research <br>
 
-Calls at Tuesday - 7pm
 
-Repo and Dashboard resources:<br>
-https://github.com/OpenDataDE/State-zip-code-GeoJSON << GeoJSON for ZipCode boundaries for JS
+
+
+
+
+
