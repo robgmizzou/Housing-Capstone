@@ -31,6 +31,8 @@ What do we expect the housing market to look like in the next few years?
 Repo and Dashboard resources:<br>
 https://github.com/OpenDataDE/State-zip-code-GeoJSON << GeoJSON for ZipCode boundaries for JS
 
+For the database, we will be using PostgreSQL and will be hosting our database using Amazon Web Services. This will allow anyone will access to the AWS bucket to work on the project. 
+
 Schema used:
 CREATE TABLE properties (
    zpid INT NOT NULL,
