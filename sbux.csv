@@ -1,0 +1,339 @@
+Brand,Store Number,Store Name,Ownership Type,Street Address,City,State/Province,Country,Postcode,Phone Number,Timezone,Longitude,Latitude
+Starbucks,10387-100533,"Aberdeen, NC",Company Owned,110 Columbus Drive,Aberdeen,NC,US,283152387,910-692-2351,GMT-05:00 America/New_York,-79.42,35.16
+Starbucks,72999-98079,Harris Teeter-Apex #58,Licensed,750 W Williams St,Apex,NC,US,275025100,919-362-3782,GMT-05:00 America/New_York,-78.86,35.74
+Starbucks,72522-104988,Kroger-Apex #357,Licensed,940 US Hwy 64,Apex,NC,US,275237184,919-380-1422,GMT-05:00 America/New_York,-78.82,35.74
+Starbucks,76255-94937,Super Target Apex ST-1932,Licensed,1201 Beaver Creek Commons Dr,Apex,NC,US,275023922,919-372-1405,GMT-05:00 America/New_York,-78.87,35.74
+Starbucks,76409-95670,Target Asheville T-2011,Licensed,15 McKenna Rd,Arden,NC,US,287049201,828-681-0341,GMT-05:00 America/New_York,-82.53,35.46
+Starbucks,72992-97702,Ingles-Arden #130,Licensed,301 Long Shoals Rd,Arden,NC,US,287047713,828-681-5173,GMT-05:00 America/New_York,-82.55,35.48
+Starbucks,19919-202925,Target Asheville T-1807,Licensed,115 River Hills Rd,Asheville,NC,US,28805,828-298-1262,GMT-05:00 America/New_York,-82.52,35.58
+Starbucks,73885-132946,Ingles-Asheville #7,Licensed,29 Tunnel Rd,Asheville,NC,US,288051229,828-255-8097,GMT-05:00 America/New_York,-82.54,35.6
+Starbucks,22309-216224,Long Shoals Rd & I-26,Company Owned,"26 Carl Alwin Place, 10",Asheville,NC,US,28803,8284583700,GMT-05:00 America/New_York,-82.55,35.48
+Starbucks,3921-145304,Ingles-Asheville #4,Licensed,1141 Tunnel Rd,Asheville,NC,US,288052037,8282981425,GMT-05:00 America/New_York,-82.49,35.59
+Starbucks,72571-98062,Ingles-Asheville #30,Licensed,1865 Hendersonville Rd,Asheville,NC,US,288033217,8282740804,GMT-05:00 America/New_York,-82.52,35.5
+Starbucks,8585-82303,Biltmore Village,Company Owned,"40 All Souls Crescent Street, Biltmore Village Center",Asheville,NC,US,288032670,828-277-3248,GMT-05:00 America/New_York,-82.54,35.57
+Starbucks,2862-83232,Parkway Centre,Company Owned,1378 Hendersonville Road,Asheville,NC,US,288031957,828-274-0586,GMT-05:00 America/New_York,-82.53,35.52
+Starbucks,79308-98053,Ingles-Asheville#3,Licensed,915 Merrimon Ave,Asheville,NC,US,288042304,828-253-1326,GMT-05:00 America/New_York,-82.55,35.63
+Starbucks,3922-98060,Ingles-Asheville #62,Licensed,575 New Leicester Hwy,Asheville,NC,US,288062122,8282252756,GMT-05:00 America/New_York,-82.63,35.61
+Starbucks,11420-105384,Asheville Mall,Company Owned,3 S Tunnel Road,Asheville,NC,US,288052238,828-298-7188,GMT-05:00 America/New_York,-82.53,35.58
+Starbucks,49575-269344,Ingles Asheville 24,Licensed,863 BREVARD RD.,ASHEVILLE,NC,US,28806,8286650787,GMT-05:00 America/New_York,-82.61,35.53
+Starbucks,8598-82600,Charlotte St.,Company Owned,62 Charlotte Street,Asheville,NC,US,288012434,828/225-3753,GMT-05:00 America/New_York,-82.55,35.6
+Starbucks,27436-242685,Asheville Outlets,Company Owned,"800 Brevard Road, N109",Asheville,NC,US,28806,8284588181,GMT-05:00 America/New_York,-82.6,35.53
+Starbucks,15941-145305,Ingles-Black Mountain #8,Licensed,550 HIGHWAY 9,Black Mountain,NC,US,28711,828-669-6700,GMT-05:00 America/New_York,-82.32,35.61
+Starbucks,16318-156564,Harris Teeter-Boone #165,Licensed,240 Shadowline Dr,Boone,NC,US,286075088,828-262-3319,GMT-05:00 America/New_York,-81.66,36.2
+Starbucks,79222-98063,Ingles-Brevard #67,Licensed,710 N Broad St,Brevard,NC,US,287123102,828-883-2377,GMT-05:00 America/New_York,-82.73,35.24
+Starbucks,23944-230987,Campbell University - Wiggins Hall,Licensed,113 Main St,Buies Creek,NC,US,27506,910-814-5555,GMT-05:00 America/New_York,-78.74,35.41
+Starbucks,79343-103391,Harris Teeter-Burlington # 345,Licensed,2727 S Church St,Burlington,NC,US,272155103,336-585-1444,GMT-05:00 America/New_York,-79.48,36.08
+Starbucks,76466-96570,Target Burlington T-2037,Licensed,"1475 University Dr, Colonial Mall",Burlington,NC,US,272158768,336-524-9354,GMT-05:00 America/New_York,-79.52,36.07
+Starbucks,9763-98360,Burlington Mall,Company Owned,"451 Huffman Mill Road, University Commons",Burlington,NC,US,272155118,336-538-6997,GMT-05:00 America/New_York,-79.49,36.08
+Starbucks,9839-98359,University Commons,Company Owned,"1447 ""A"" University Drive",Burlington,NC,US,272158790,336 584-6795,GMT-05:00 America/New_York,-79.52,36.07
+Starbucks,16319-165208,Ingles-East Burnsville #13,Licensed,400 E US Highway 19 E Byp,Burnsville,NC,US,287147165,818-682-6272,GMT-05:00 America/New_York,-82.29,35.91
+Starbucks,23581-230990,Camp Lejeune - Main Exchange,Licensed,1231 Birch St,Camp Lejenue,NC,US,28547,,GMT-05:00 America/New_York,-77.34,34.67
+Starbucks,28688-237571,Ingles Candler # 134,Licensed,1572 Sand Hill Rd,Candler,NC,US,28715,828-665-2861,GMT-05:00 America/New_York,-82.66,35.55
+Starbucks,3944-147046,Ingles-Canton #55,Licensed,630 Champion Dr,Canton,NC,US,287163032,8286483200,GMT-05:00 America/New_York,-82.84,35.54
+Starbucks,29953-255606,Harris Teeter Cary 331,Licensed,3430 Ten Ten Rd,Cary,NC,US,27518,9193878272,GMT-05:00 America/New_York,-78.79,35.7
+Starbucks,9840-98530,Cary Towne Center,Company Owned,"1107 Walnut Street, Suite 102, Kildaire Plaza",Cary,NC,US,275114734,919 468-9908,GMT-05:00 America/New_York,-78.76,35.77
+Starbucks,10967-103699,Cary Central,Company Owned,"1217 Kildaire Farm Road, The Arboretum",Cary,NC,US,275115523,919 465-1229,GMT-05:00 America/New_York,-78.78,35.76
+Starbucks,8545-51440,Weston Parkway,Company Owned,125 Weston Parkway,Cary,NC,US,275132424,919-677-6104,GMT-05:00 America/New_York,-78.77,35.83
+Starbucks,23289-97715,Harris Teeter Cary #257,Licensed,2080 Kildaire Farm Rd,Cary,NC,US,275186614,919-233-9483,GMT-05:00 America/New_York,-78.78,35.74
+Starbucks,23353-229005,Harris Teeter - Cary # 236,Licensed,7145 O'Kelly Chapel Rd,Cary,NC,US,27519,919-465-9432,GMT-05:00 America/New_York,-78.89,35.84
+Starbucks,79699-100511,Harris Teeter-Cary #298,Licensed,1150 Green Level to Durham Rd,Cary,NC,US,275198341,919-460-3126,GMT-05:00 America/New_York,-78.9,35.82
+Starbucks,73887-103383,Harris Teeter-Cary # 330,Licensed,1151 TRYON VILLAGE DRIVE,Cary,NC,US,275187168,919-233-3476,GMT-05:00 America/New_York,-78.74,35.75
+Starbucks,23309-227624,Parkside Towne Center,Company Owned,1015 Parkside Main St,Cary,NC,US,27519,919-466-8062,GMT-05:00 America/New_York,-78.89,35.85
+Starbucks,23652-230989,Harris Teeter - Cary #430,Licensed,"885 Walnut St, Tryon Village",Cary,NC,US,27511,919-481-4251,GMT-05:00 America/New_York,-78.77,35.77
+Starbucks,11967-104840,Tryon Village,Company Owned,"8204 Tryon Woods Dr, Suite 120, Northwoods Center",Cary,NC,US,275187164,919-851-6439,GMT-05:00 America/New_York,-78.74,35.75
+Starbucks,10158-97033,Evans Road,Company Owned,1904 Northwest Maynard Road,Cary,NC,US,275134997,919-481-9124,GMT-05:00 America/New_York,-78.8,35.8
+Starbucks,21786-214784,Target Cary T-2784,Licensed,"7129 O'Kelly Chapel Road, High House Shops",Cary,NC,US,27519,9196742214,GMT-05:00 America/New_York,-78.89,35.85
+Starbucks,9364-95870,High House Road,Company Owned,2840 NC Highway 55,Cary,NC,US,275195685,919 387-3482,GMT-05:00 America/New_York,-78.87,35.79
+Starbucks,79397-98082,Harris Teeter-Cary #138,Licensed,98 Cornerstone Dr,Cary,NC,US,275198404,919-467-1259,GMT-05:00 America/New_York,-78.85,35.79
+Starbucks,13922-108466,Crossroads Blvd & Caitboo Ave,Company Owned,"204 Crossroads Blvd, Suite 200",Cary,NC,US,275116705,919-233-4905,GMT-05:00 America/New_York,-78.74,35.76
+Starbucks,48136-261246,Harris Teeter Cary 112,Licensed,270 GRANDE HEIGHTS DR.,CARY,NC,US,27513,919-460-4326,GMT-05:00 America/New_York,-78.78,35.81
+Starbucks,18447-186744,Ingles Cashiers # 110,Licensed,230 US 64 E,Cashiers,NC,US,28717,828-743-3801,GMT-05:00 America/New_York,-83.1,35.11
+Starbucks,3048-132884,UNC Hospital,Licensed,101 Manning Dr,Chapel Hill,NC,US,275144220,919-445-5404,GMT-05:00 America/New_York,-79.05,35.9
+Starbucks,78077-118966,UNC at Chapel Hill - Rams Head Cent,Licensed,"104 Ridge Rd, Eastgate Shopping Center",Chapel Hill,NC,US,275144387,919-962-6219,GMT-05:00 America/New_York,-79.04,35.91
+Starbucks,8715-79143,Eastgate - Chapel Hill,Company Owned,"1800 E Franklin Street, Suite B",Chapel Hill,NC,US,275145816,919-929-2613,GMT-05:00 America/New_York,-79.03,35.94
+Starbucks,79375-98080,Harris Teeter-Chapel Hill #137,Licensed,88 Chatham Downs,Chapel Hill,NC,US,275176111,919-960-0275,GMT-05:00 America/New_York,-79.09,35.83
+Starbucks,72920-93638,Harris Teeter-Chapel Hill #117,Licensed,2110  S Estes Dr,Chapel Hill,NC,US,27514,919-933-5700,GMT-05:00 America/New_York,-79.03,35.93
+Starbucks,19139-197344,Harris Teeter - Chapel Hill #120,Licensed,116 W. Barbee Chapel Rd,Chapel Hill,NC,US,27517,919-932-5020,GMT-05:00 America/New_York,-79.01,35.91
+Starbucks,8245-1082,Franklin Street,Company Owned,103 East Franklin Street,Chapel Hill,NC,US,275143620,(919) 932-3824,GMT-05:00 America/New_York,-79.06,35.91
+Starbucks,8393-21301,101 South Tryon,Company Owned,101 S. Tryon Street,Charlotte,NC,US,282800002,704-374-9519,GMT-05:00 America/New_York,-80.84,35.23
+Starbucks,78090-115167,University of North Carolina Charlo,Licensed,"9201 University City Blvd, Piper Glen",Charlotte,NC,US,282230001,,GMT-05:00 America/New_York,-80.73,35.3
+Starbucks,11921-105138,Piper Glen,Company Owned,6432 Rea Road,Charlotte,NC,US,282772528,7045423721,GMT-05:00 America/New_York,-80.82,35.08
+Starbucks,2971-79140,Park Towne Village,Company Owned,"4425 Park Road, 100",Charlotte,NC,US,282092269,704-527-2463,GMT-05:00 America/New_York,-80.85,35.17
+Starbucks,22352-219264,CLT E Food Court,Licensed,5501 Josh Birmingham Pkwy,Charlotte,NC,US,28208,704-359-4546,GMT-05:00 America/New_York,-80.93,35.22
+Starbucks,26170-105488,Harris Teeter - Charlotte #166,Licensed,"3540 Mount Holly-Huntersville Rd, Stonecrest",Charlotte,NC,US,282168644,704-392-9690,GMT-05:00 America/New_York,-80.95,35.32
+Starbucks,11968-104874,Stonecrest,Company Owned,7922 Rea Road,Charlotte,NC,US,282776576,704-543-0364,GMT-05:00 America/New_York,-80.81,35.06
+Starbucks,76455-98968,Target Charlotte T-1087,Licensed,7860 Rea Rd,Charlotte,NC,US,282776502,704-542-1856,GMT-05:00 America/New_York,-80.81,35.06
+Starbucks,22726-220225,Charlotte Premium Outlet,Company Owned,5434 New Fashion Way,Charlotte,NC,US,28278,7045839764,GMT-05:00 America/New_York,-80.97,35.17
+Starbucks,79297-87751,Harris Teeter-Charlotte #45,Licensed,10616 Providence Road,Charlotte,NC,US,282770233,704-849-2776,GMT-05:00 America/New_York,-80.77,35.07
+Starbucks,76129-88986,Target Pineville T-762,Licensed,9531 South Blvd,Charlotte,NC,US,282736901,704-556-7082,GMT-05:00 America/New_York,-80.88,35.11
+Starbucks,48920-264924,Harris Teeter Charlotte # 122,Licensed,5810 Highland Shoppes Dr,Charlotte,NC,US,28269,704-875-0993,GMT-05:00 America/New_York,-80.8,35.34
+Starbucks,19257-182669,Harris Teeter - Charlotte #401,Licensed,1704 Central Ave,Charlotte,NC,US,28205,704-375-8491,GMT-05:00 America/New_York,-80.81,35.22
+Starbucks,10324-99035,Arrowood Road,Company Owned,"7819 Forest Pine Drive, Southpark Mall",Charlotte,NC,US,28273,704 523-2699,GMT-05:00 America/New_York,-80.9,35.14
+Teavana,28430-249736,Teavana - Southpark Mall,Company Owned,"4400 Sharon Rd., Ste. G31B, Charlotte/Douglas Int'l Airport",Charlotte,NC,US,28211,704-362-5181,GMT-05:00 America/New_York,-80.83,35.15
+Starbucks,72361-5659,CLT - Main C/D Side Bookstore,Licensed,5501 Josh Birmingham Parkway,Charlotte,NC,US,282085750,704-359-4512,GMT-05:00 America/New_York,-80.94,35.22
+Starbucks,76903-128668,SuperTarget Charlotte North ST-2080,Licensed,9841 Northlake Ctr Pkwy,Charlotte,NC,US,282168930,(704) 516-3648,GMT-05:00 America/New_York,-80.86,35.35
+Starbucks,8572-82300,Whitehall,Company Owned,8951-A SOUTH TRYON STREET,Charlotte,NC,US,282733309,704-504-1832,GMT-05:00 America/New_York,-80.94,35.14
+Starbucks,29823-253885,CIT - Baggage Claim,Licensed,"5501 R C Josh Birmingham Pkwy, The Arbors",Charlotte,NC,US,28208,704-359-4512,GMT-05:00 America/New_York,-80.94,35.23
+Starbucks,9437-94799,The Arbors,Company Owned,"2121 East Arbors Drive, Suite 110",Charlotte,NC,US,282622571,704-688-0107,GMT-05:00 America/New_York,-80.76,35.34
+Starbucks,8240-103436,Cotswold Village Shops,Company Owned,"4450 Randolph Rd. Ste 100, Duke Energy Center",Charlotte,NC,US,282112388,704-442-0333,GMT-05:00 America/New_York,-80.8,35.18
+Starbucks,19547-192464,Duke Energy Center,Company Owned,"135 Levine Avenue of the Arts, Suite 140",Charlotte,NC,US,28202,704-372-6114,GMT-05:00 America/New_York,-80.85,35.22
+Starbucks,8554-35022,Promenade,Company Owned,"5361 Ballantyne Commons Pkwy, 100",Charlotte,NC,US,282770525,704-814-7350,GMT-05:00 America/New_York,-80.77,35.06
+Starbucks,75852-100840,CLT- Main Terminal Pre Security,Licensed,5501 Josh Birmingham Pkwy,Charlotte,NC,US,282085750,704-359-4512,GMT-05:00 America/New_York,-80.95,35.22
+Starbucks,8211-819,7th Street,Company Owned,1961 East 7th Street,Charlotte,NC,US,282042417,(704) 333-5880,GMT-05:00 America/New_York,-80.82,35.21
+Starbucks,8210-824,Providence Road,Company Owned,545 Providence Rd.,Charlotte,NC,US,282071653,(704) 372-1591,GMT-05:00 America/New_York,-80.82,35.2
+Starbucks,8288-1929,East Blvd,Company Owned,1401 East Boulevard,Charlotte,NC,US,282035817,704-338-9911,GMT-05:00 America/New_York,-80.84,35.2
+Starbucks,16408-169145,Harris Teeter-S Tryon Charlotte #88,Licensed,13000 S Tryon St,Charlotte,NC,US,282787652,,GMT-05:00 America/New_York,-80.99,35.1
+Starbucks,50413-274145,CIT - Mobile Truck,Licensed,"5501 R C Josh Birmingham Pkwy., Host Marriott/Starbucks Coffee",Charlotte,NC,US,28208,,GMT-05:00 America/New_York,-80.95,35.23
+Starbucks,72400-3568,CLT - Charlotte Main Term Bookstore,Licensed,5501 Josh Birmingham Parkway,Charlotte,NC,US,282085750,704-359-4512,GMT-05:00 America/New_York,-80.94,35.22
+Starbucks,17807-165784,Harris Teeter-Charlotte/Ballantyne,Licensed,15007 John J. Delaney Dr.,Charlotte,NC,US,28277,704-716-2000,GMT-05:00 America/New_York,-80.85,35.05
+Starbucks,48190-261666,Harris Teeter Charlotte # 3,Licensed,4821 Berewick Town Center Dr.,Charlotte,NC,US,28217,,GMT-05:00 America/New_York,-80.97,35.16
+Starbucks,8351-13967,Olde Towne Village,Company Owned,"4100 Carmel Road, Suite L",Charlotte,NC,US,282266151,704-541-0203,GMT-05:00 America/New_York,-80.82,35.12
+Starbucks,76552-97053,Target Charlotte Far South T-2090,Licensed,9870 Rea Rd,Charlotte,NC,US,282776655,704-2643521,GMT-05:00 America/New_York,-80.81,35.04
+Starbucks,8208-820,Charlotte Plaza,Company Owned,201 South College Street,Charlotte,NC,US,282440002,(704) 335-8242,GMT-05:00 America/New_York,-80.84,35.23
+Starbucks,76840-111225,Target Charlotte Midtown T-2244,Licensed,900 Metropolitan Ave,Charlotte,NC,US,282043177,7049733121,GMT-05:00 America/New_York,-80.83,35.22
+Starbucks,73918-103375,Harris Teeter-Charlotte # 317,Licensed,16625 Lancaster Hwy,Charlotte,NC,US,282772038,704-714-4795,GMT-05:00 America/New_York,-80.85,35.02
+Starbucks,76601-97457,Super Target Charlotte ST-2132,Licensed,12830 Walker Branch Dr,Charlotte,NC,US,282738850,704-583-2601,GMT-05:00 America/New_York,-80.99,35.1
+Starbucks,8234-173224,N. Tryon Street & Institute Circle,Company Owned,"9335 North Tryon Street, 104, Northlake Mall",Charlotte,NC,US,282628423,7045471787,GMT-05:00 America/New_York,-80.74,35.31
+Teavana,28540-250012,Teavana - Northlake Mall,Company Owned,"6801 Northlake Mall Dr., #238",Charlotte,NC,US,28216,704-921-2381,GMT-05:00 America/New_York,-80.86,35.35
+Starbucks,47070-249615,Carowinds Amusement Park Main Gate,Licensed,14523 CAROWINDS BLVD,CHARLOTTE,NC,US,28273,7045839134,GMT-05:00 America/New_York,-80.94,35.1
+Starbucks,3488-153005,CLT Terminal E,Licensed,5501 Josh Birmingham Pkwy,Charlotte,NC,US,282085750,704-359-4546,GMT-05:00 America/New_York,-80.94,35.22
+Starbucks,8390-13848,101 North Tyron,Company Owned,"101 N Tryon St, Charlotte/Douglas Int'l Airport",Charlotte,NC,US,282460100,704-377-2790,GMT-05:00 America/New_York,-80.84,35.23
+Starbucks,72362-5660,CLT - Charlotte C-13-,Licensed,"5502 Josh Birmingham Parkway, Gateway Village",Charlotte,NC,US,282085746,704-359-4512,GMT-05:00 America/New_York,-80.94,35.22
+Starbucks,8460-19165,Gateway Village,Company Owned,"800 W Trade St, Ste 140",Charlotte,NC,US,282021198,704-333-4077,GMT-05:00 America/New_York,-80.85,35.23
+Starbucks,73786-93624,Harris Teeter Charlotte #30,Licensed,"3333 Pineville Matthews Rd, Morehead Medical Plaza",Charlotte,NC,US,282269322,7045443340,GMT-05:00 America/New_York,-80.78,35.1
+Starbucks,11638-105036,Carolinas Medical Kiosk,Company Owned,1025 Morehead Medical Drive,Charlotte,NC,US,282042963,704-375-2406,GMT-05:00 America/New_York,-80.84,35.21
+Starbucks,10389-241727,Hwy 49 & Steelecroft Pkwy,Company Owned,"13129 S. Tryon St., Suite 100",Charlotte,NC,US,28278,7045883062,GMT-05:00 America/New_York,-80.99,35.1
+Starbucks,19543-159188,Harris Teeter-Charlotte #412,Licensed,"1015 Providence Rd, Host Marriott/Starbucks Coffee",Charlotte,NC,US,28207,704-338-9100,GMT-05:00 America/New_York,-80.83,35.2
+Starbucks,72402-3649,"CLT - Term B-Gate 12, Gift/News",Licensed,"5501 Josh Birmingham Parkway, Blakeney",Charlotte,NC,US,282085750,704-359-4546,GMT-05:00 America/New_York,-80.94,35.22
+Starbucks,10241-99049,Blakeney,Company Owned,9820-A Rea Road,Charlotte,NC,US,282776681,704 541-0355,GMT-05:00 America/New_York,-80.81,35.03
+Starbucks,75190-83327,Wachovia Bank,Licensed,"1525 W WT Harris Blvd, South Park Mall",Charlotte,NC,US,282628522,704-717-0807,GMT-05:00 America/New_York,-80.77,35.32
+Starbucks,8563-77006,South Park Mall,Company Owned,"4400 Sharron Road, C7B",Charlotte,NC,US,282113531,704-364-7523,GMT-05:00 America/New_York,-80.83,35.15
+Starbucks,79419-98072,Harris-Teeter-Charlotte #258,Licensed,"8514 University Center Blvd, Davis Lake Commons",Charlotte,NC,US,28262,704-593-1395,GMT-05:00 America/New_York,-80.74,35.3
+Starbucks,10388-100492,Davis Lake Commons,Company Owned,8439 Davis Lake Parkway,Charlotte,NC,US,282690539,(704) 921-4515,GMT-05:00 America/New_York,-80.81,35.33
+Starbucks,8216-45,Morrocroft Village - HT,Company Owned,"6701 Morrison Blvd., Park Place Shopping Center",Charlotte,NC,US,282115000,(704) 365-5194,GMT-05:00 America/New_York,-80.83,35.15
+Starbucks,10035-99036,Carolinas Medical South,Company Owned,9015 Pineville-Matthews Road,Charlotte,NC,US,281348800,(704) 540-8710,GMT-05:00 America/New_York,-80.87,35.09
+Starbucks,75659-86880,CLT - Concourse D/E Connector,Licensed,"5501 Josh Birmingham Parkway, Shops of Ballantyne",Charlotte,NC,US,282085750,704-359-4512,GMT-05:00 America/New_York,-80.94,35.22
+Starbucks,9362-49959,Ballantyne,Company Owned,13855 Conlan Circle,Charlotte,NC,US,282773654,704-543-1535,GMT-05:00 America/New_York,-80.85,35.06
+Starbucks,75310-96262,Charlotte Convention Center,Licensed,"501 S College St, Grand Plaza",Charlotte,NC,US,282021827,704-339-6041,GMT-05:00 America/New_York,-80.85,35.22
+Starbucks,10390-100531,"Clayton, NC",Company Owned,"13024 US Highway 70W, Suite 103",Clayton,NC,US,275202282,919-359-0690,GMT-05:00 America/New_York,-78.5,35.67
+Starbucks,19321-195825,Harris Teeter Clayton #229,Licensed,"67 Flowers Crossroads Wy, Walgreens Development",Clayton,NC,US,27527,919-359-8023,GMT-05:00 America/New_York,-78.38,35.65
+Starbucks,11922-105252,Clemmons,Company Owned,2785 Lewisville-Clemmons Rd,Clemmons,NC,US,270128715,336-766-7866,GMT-05:00 America/New_York,-80.38,36.02
+Starbucks,10391-99041,Speedway Blvd.,Company Owned,"7741 Gateway Lane NW, Suite 130",Concord,NC,US,280275412,704 979-1982,GMT-05:00 America/New_York,-80.71,35.37
+Starbucks,73802-100510,Harris Teeter-Concord #190,Licensed,9900-Suite 124 Poplar Tent Rd,Concord,NC,US,280279304,704-721-0735,GMT-05:00 America/New_York,-80.74,35.42
+Starbucks,11969-100497,Kannapolis Parkway,Company Owned,6065 Bayfield Pkwy,Concord,NC,US,280277597,704-795-1116,GMT-05:00 America/New_York,-80.68,35.42
+Starbucks,9570-96614,"Concord, Hwy 29",Company Owned,"1490 US Highway 29, Concord Mills",Concord,NC,US,28027,704-786-8151,GMT-05:00 America/New_York,-80.61,35.44
+Starbucks,10968-103172,Concord Mills,Company Owned,"8111 Concord Mills Blvd, 342",Concord,NC,US,280276462,704-979-1205,GMT-05:00 America/New_York,-80.72,35.37
+Starbucks,76716-97703,SuperTarget Kannapolis ST-2169,Licensed,6150 Bayfield Pkwy,Concord,NC,US,280277486,704-262-6080,GMT-05:00 America/New_York,-80.7,35.43
+Starbucks,26636-93622,Harris Teeter-Concord #68,Licensed,358 George W Liles Pkwy,Concord,NC,US,28027,704-786-2510,GMT-05:00 America/New_York,-80.67,35.42
+Starbucks,8285-1605,Lake Norman Blvd.,Company Owned,"19722 One Lake Norman Blvd, Suite 200",Cornelius,NC,US,280315911,704-895-6066,GMT-05:00 America/New_York,-80.88,35.48
+Starbucks,26803-245327,Harris Teeter Cornelius # 416,Licensed,21720 Catawba Ave,Cornelius,NC,US,28031,704-894-5352,GMT-05:00 America/New_York,-80.86,35.48
+Starbucks,72924-87821,Harris Teeter-Cornelius #179,Licensed,19815 N Cove Rd,Cornelius,NC,US,280318816,704-895-5020,GMT-05:00 America/New_York,-80.89,35.48
+Starbucks,23134-98083,Harris Teeter-Corolla #266,Licensed,6010 Currituck Clubhouse DR,Corolla,NC,US,27927,252-453-0153,GMT-05:00 America/New_York,-75.81,36.3
+Starbucks,75441-106538,Western Carolina University -Center,Licensed,517 Centennial Drive,Cullowhee,NC,US,28723,8282275100,GMT-05:00 America/New_York,-83.18,35.31
+Starbucks,19900-201165,Ingles Dallas # 146,Licensed,715 W Trade St.,Dallas,NC,US,28034,704-922-2094,GMT-05:00 America/New_York,-81.18,35.32
+Starbucks,73878-100513,Harris Teeter-Davidson # 268,Licensed,"431 Peninsula Drive, Parkwest Crossing",Davidson,NC,US,280367060,704-892-0597,GMT-05:00 America/New_York,-80.86,35.5
+Starbucks,13203-105259,"Parkwest Crossing, NC",Company Owned,4834 NC Hwy 55,Durham,NC,US,277132257,919-293-0232,GMT-05:00 America/New_York,-78.9,35.9
+Starbucks,73929-108099,Harris Teeter - Durham #224,Licensed,1125 West North Carolina 54 Hwy,Durham,NC,US,277075715,919-403-0794,GMT-05:00 America/New_York,-78.96,35.92
+Starbucks,79410-104139,Kroger - Durham #332,Licensed,3457 Hillsborough Road,Durham,NC,US,277053008,919-383-2249,GMT-05:00 America/New_York,-78.95,36.02
+Starbucks,8171-132784,Duke University Hospital,Licensed,2301 Erwin Rd,Durham,NC,US,277054699,919-681-9702,GMT-05:00 America/New_York,-78.94,36.01
+Starbucks,23693-227588,N. Roxboro & Fairfield,Company Owned,4201 N Roxboro Street,Durham,NC,US,27707,9194517305,GMT-05:00 America/New_York,-78.9,36.05
+Starbucks,76134-92543,Super Target-Durham ST-1872,Licensed,"4037 Chapel Hill Blvd, Streets at Southpoint",Durham,NC,US,277072516,919-765-0008,GMT-05:00 America/New_York,-78.96,35.97
+Teavana,28313-249973,Teavana - Streets at Southpoint,Company Owned,"6910 Fayetteville Rd., #1305, Imperial Center",Durham,NC,US,27713,919-544-2990,GMT-05:00 America/New_York,-78.94,35.91
+Starbucks,10564-100526,Imperial Corners,Company Owned,1119 Slater Rd,Durham,NC,US,277038474,919-941-0482,GMT-05:00 America/New_York,-78.85,35.88
+Starbucks,9715-97673,Mount Moriah,Company Owned,"5319 New Hope Commons Dr, Suite 105, Renaissance at Southpoint",Durham,NC,US,277079610,919-493-2471,GMT-05:00 America/New_York,-78.99,35.95
+Starbucks,9361-77100,Renaissance Center at South Point,Company Owned,"6813 Fayetteville Road, Willowdale Shopping Center",Durham,NC,US,277138721,919-544-4132,GMT-05:00 America/New_York,-78.94,35.9
+Starbucks,13656-105132,Guess Road,Company Owned,3801 Guess Road,Durham,NC,US,277051505,919-471-2957,GMT-05:00 America/New_York,-78.93,36.06
+Starbucks,19542-170046,Harris Teeter-Durham #394,Licensed,2107 Hillborough Rd,Durham,NC,US,27705,919-286-1500,GMT-05:00 America/New_York,-78.92,36.01
+Starbucks,76480-97492,Super Target Durham SE ST-2069,Licensed,8210 Renaissance Pkwy,Durham,NC,US,277136688,919-425-0001,GMT-05:00 America/New_York,-78.95,35.9
+Starbucks,25714-242145,Durham Chapel Hill & Tower Blvd,Company Owned,4010 Durham Chapel Hill Boulevard,Durham,NC,US,27707,9198860837,GMT-05:00 America/New_York,-78.96,35.97
+Starbucks,27920-248749,Harris Teeter 172 Durham,Licensed,1817 Martin Luther King Pkwy,Durham,NC,US,27707,919-489-9887,GMT-05:00 America/New_York,-78.96,35.96
+Starbucks,72949-96799,Farm Fresh-Elizabeth City #469,Licensed,"691 S Hughes Blvd, Cross Creek Mall",Elizabeth City,NC,US,279094530,252-331-1368,GMT-05:00 America/New_York,-76.25,36.29
+Starbucks,9800-96995,Cross Creek,Company Owned,"565 Cross Creek Mall, Suite 100",Fayetteville,NC,US,283037245,910-864-9991,GMT-05:00 America/New_York,-78.96,35.07
+Starbucks,21344-210885,Methodist University - Berns Studen,Licensed,"5400 Ramsey St, The Shoppes at Walter Reed",Fayetteville,NC,US,28311,910-884-0065,GMT-05:00 America/New_York,-78.87,35.13
+Starbucks,10159-99871,Walter Reed Road,Company Owned,1445 Walter Reed Road,Fayetteville,NC,US,283044401,910 485-1084,GMT-05:00 America/New_York,-78.94,35.04
+Starbucks,76391-95392,Target Fayetteville T-755,Licensed,"2056 Skibo Rd, Ramsey Commons",Fayetteville,NC,US,283142245,910-860-4400,GMT-05:00 America/New_York,-78.97,35.06
+Starbucks,19704-193364,N Ramsey St,Company Owned,4401 N Ramsey Street,Fayetteville,NC,US,28311,910-488-4783,GMT-05:00 America/New_York,-78.88,35.12
+Starbucks,18401-170045,Harris Teeter-Fayetteville #393,Licensed,3050 Traemoor Village Dr,Fayetteville,NC,US,28306,910-424-3505,GMT-05:00 America/New_York,-79.01,34.98
+Starbucks,72864-87824,Harris Teeter-Fayetteville #25,Licensed,2800 Raeford Rd,Fayetteville,NC,US,283039611,910-484-6000,GMT-05:00 America/New_York,-78.92,35.05
+Starbucks,73927-98066,Ingles-Flat Rock #177,Licensed,220 Highland Lake Rd,Flat Rock,NC,US,287318568,828-692-1335,GMT-05:00 America/New_York,-82.43,35.29
+Starbucks,79298-98061,Ingles-Fletcher #43,Licensed,2901 Hendersonville Rd,Fletcher,NC,US,287329627,828-684-5916,GMT-05:00 America/New_York,-82.51,35.44
+Starbucks,17897-182671,Ingles Forest City - #27,Licensed,765 S Church St,Forest City,NC,US,28043,828-245-1256,GMT-05:00 America/New_York,-81.88,35.32
+Starbucks,70010-108337,Fort Bragg - North Post,Licensed,"3571 Butner Road, Bldg 8-5476A",Fort Bragg,NC,US,28310,910-306-3709,GMT-05:00 America/New_York,-78.97,35.16
+Starbucks,78064-108504,Fort Bragg - Mini Mall,Licensed,Building 42171 Reilly Road,Fort Bragg,NC,US,28307,910-436-2200,GMT-05:00 America/New_York,-79,35.13
+Starbucks,19630-167545,Fort Bragg South Post,Licensed,1017 Canopy LN,Fort Bragg,NC,US,283108051,9104362237,GMT-05:00 America/New_York,-79.01,35.11
+Starbucks,14381-116724,Hwy 401 & Purfoy Rd,Company Owned,1380 North Main St,Fuquay-Varina,NC,US,275262617,919-557-0533,GMT-05:00 America/New_York,-78.78,35.59
+Starbucks,19907-128670,Target Garner T-1104,Licensed,2700 Timber Dr,Garner,NC,US,27529,919-772-9065,GMT-05:00 America/New_York,-78.64,35.72
+Starbucks,79379-100643,Harris Teeter-Garner #283,Licensed,"Rt. 401 & Ten Ten, White Oak Cabella's",Garner,NC,US,27529,919-772-0241,GMT-05:00 America/New_York,-78.7,35.66
+Starbucks,25115-100534,Hwy 70 & Jones Sausage Rd,Company Owned,180 Cabela Drive,Garner,NC,US,27529,9198195059,GMT-05:00 America/New_York,-78.58,35.7
+Starbucks,16138-100072,Target Gastonia T-2565,Licensed,425 Cox Rd,Gastonia,NC,US,28054,704-691-6001,GMT-05:00 America/New_York,-81.13,35.26
+Starbucks,47673-259024,Harris Teeter Gastonia # 281,Licensed,3350 Robinwood Dr,Gastonia,NC,US,28054,7048640139,GMT-05:00 America/New_York,-81.16,35.22
+Starbucks,18833-188544,Cox Rd & I-85,Company Owned,420 Cox Road,Gastonia,NC,US,28054,7048655491,GMT-05:00 America/New_York,-81.13,35.26
+Starbucks,76570-101399,Target Goldsboro T-964,Licensed,1204 Sunburst Dr,Goldsboro,NC,US,275348202,919-778-2150,GMT-05:00 America/New_York,-77.94,35.38
+Starbucks,14555-118464,Wayne Memorial Dr & Hwy 70,Company Owned,"2116-A Wayne Memorial Dr, Berkley Mall",Goldsboro,NC,US,275341760,919 5810993,GMT-05:00 America/New_York,-77.96,35.4
+Starbucks,9838-98423,Goldsboro,Company Owned,603 North Berkeley Blvd,Goldsboro,NC,US,275343443,919 778-7866,GMT-05:00 America/New_York,-77.94,35.38
+Starbucks,29074-251947,Harris Teeter Greensboro 280,Licensed,4010 Battleground Ave,Greensboro,NC,US,27410,336-288-2203,GMT-05:00 America/New_York,-79.87,36.15
+Starbucks,8221-103437,Friendly - HT,Company Owned,3330 W. Friendly Ave.,Greensboro,NC,US,274104806,336 856-9371,GMT-05:00 America/New_York,-79.84,36.09
+Starbucks,14437-119070,Battlegrnd Ave & Horse Pen Crk Rd,Company Owned,4016 Battleground Ave,Greensboro,NC,US,274109799,336-282-3177,GMT-05:00 America/New_York,-79.87,36.15
+Starbucks,17470-181564,Target Greensboro South T-1078,Licensed,"1212 Bridford Pkwy, Jefferson Village",Greensboro,NC,US,27407,,GMT-05:00 America/New_York,-79.9,36.05
+Starbucks,10605-99128,Jefferson Village,Company Owned,"1562 Highwoods Blvd, Suite C",Greensboro,NC,US,274102056,336-834-4620,GMT-05:00 America/New_York,-79.88,36.11
+Starbucks,76689-97498,Target Greensboro West T-2108,Licensed,"1628 Highwoods Blvd, Elmsley Square Shopping Center",Greensboro,NC,US,274102048,336-455-9900,GMT-05:00 America/New_York,-79.88,36.11
+Starbucks,11057-103156,South Elm & I-85,Company Owned,"3711 Elmsley Street, Suite 108, Friendly Center",Greensboro,NC,US,274067039,336 273-4531,GMT-05:00 America/New_York,-79.79,36
+Teavana,28472-250149,Teavana - Friendly Center,Company Owned,"3326 W. Friendly Ave., #137, Colonial Shoppes at Quaker Shopping Cntr",Greensboro,NC,US,27410,336-294-5376,GMT-05:00 America/New_York,-79.84,36.09
+Starbucks,8374-13014,Guilford College,Company Owned,5607 W Friendly Ave,Greensboro,NC,US,274104276,336-292-3020,GMT-05:00 America/New_York,-79.89,36.09
+Starbucks,27919-230643,Harris Teeter Greensboro # 64,Licensed,5710 W Gate City Blvd,Greensboro,NC,US,27407,336-854-4050,GMT-05:00 America/New_York,-79.9,36.02
+Starbucks,29068-97497,Harris Teeter-Greensboro #91,Licensed,401 Pisguah Church Rd,Greensboro,NC,US,274552521,336-545-0236,GMT-05:00 America/New_York,-79.8,36.13
+Starbucks,48628-263366,GSO - North Concourse,Licensed,1000 Ted Johnson Pkwy,Greensboro,NC,US,27409,9548499645,GMT-05:00 America/New_York,-79.93,36.12
+Starbucks,72867-93650,Harris Teeter Greensboro #33,Licensed,"701 Frances King St, Four Seasons Town Centre Mall",Greensboro,NC,US,274104105,336-856-8140,GMT-05:00 America/New_York,-79.89,36.09
+Starbucks,8325-9173,Four Seasons Towne Centre,Company Owned,"400 Four Seasons Town Centre, Space #1K5-A, Patriots Place Shopping Center",Greensboro,NC,US,274074743,336-218-0501,GMT-05:00 America/New_York,-79.84,36.04
+Starbucks,9798-96617,Patriots Place,Company Owned,505 Pisgah Church Road,Greensboro,NC,US,274552523,(336) 545-9454,GMT-05:00 America/New_York,-79.8,36.13
+Starbucks,48506-263365,GSO - South Concourse,Licensed,1000 Ted Johnson Pkwy,Greensboro,NC,US,27409,9548499645,GMT-05:00 America/New_York,-79.93,36.12
+Starbucks,8696-93966,Shops on Battleground,Company Owned,1603 Battleground Avenue,Greensboro,NC,US,274088049,336-272-7061,GMT-05:00 America/New_York,-79.81,36.09
+Starbucks,27181-246565,Harris Teeter - Greensboro #347,Licensed,2639 Lawndale Dr,Greensboro,NC,US,27408,336-545-1354,GMT-05:00 America/New_York,-79.82,36.1
+Starbucks,8148-79743,North Carolina A & T State Univ,Licensed,1601 E Market St,Greensboro,NC,US,274110002,336-334-7560,GMT-05:00 America/New_York,-79.77,36.07
+Starbucks,19798-189585,East Carolina University Joyner Lib,Licensed,"E 5th Str, Stanton Square Shopping Center",Greenville,NC,US,27858,,GMT-05:00 America/New_York,-77.37,35.61
+Starbucks,8962-95337,Stanton Square,Company Owned,"2205 W. Arlington Blvd., Suite A",Greenville,NC,US,27834,252-757-3180,GMT-05:00 America/New_York,-77.41,35.61
+Starbucks,13481-105757,East Carolina University,Company Owned,100 East 10th Street,Greenville,NC,US,278583301,252-695-6435,GMT-05:00 America/New_York,-77.37,35.61
+Starbucks,16065-159187,Harris Teeter-Greenville NC #362,Licensed,3040 EVANS ST,Greenville,NC,US,27834,2523534400,GMT-05:00 America/New_York,-77.38,35.58
+Starbucks,24135-252847,ECU Mobile Truck,Licensed,"1001 East 5th Street, Jones Hall on College Hill Dr.",Greenville,NC,US,27858,252-328-3663,GMT-05:00 America/New_York,-77.36,35.61
+Starbucks,27296-246406,Firetower Road and S. Memorial,Company Owned,"4100 Humber Dr, Unit 100",Greenville,NC,US,28590,2525587563,GMT-05:00 America/New_York,-77.41,35.55
+Starbucks,3574-113607,East Carolina University - Wright P,Licensed,"100 Founders Dr, La Promenade",Greenville,NC,US,27858-435,252-328-4855,GMT-05:00 America/New_York,-77.36,35.61
+Starbucks,8582-79241,Greenville,Company Owned,518-B Greenville Blvd. SE,Greenville,NC,US,278586757,252-353-2537,GMT-05:00 America/New_York,-77.37,35.58
+Starbucks,72594-100650,Harris Teeter-Greenville #287,Licensed,"2120 E Firetower Rd, Suite 101",Greenville,NC,US,278584134,252-355-0125,GMT-05:00 America/New_York,-77.35,35.57
+Starbucks,27160-237499,Harris Teeter Harrisburg # 92,Licensed,12190 University City Blvd,Harrisburg,NC,US,28075,704-454-9905,GMT-05:00 America/New_York,-80.67,35.32
+Starbucks,24768-237691,Ingles Hayesville # 116,Licensed,230 Highway 64 E,Hayesville,NC,US,28904,828-389-2907,GMT-05:00 America/New_York,-83.8,35.03
+Starbucks,3967-98055,Ingles-Hendersonville #11,Licensed,1980 Asheville Hwy,Hendersonville,NC,US,28792,828-692-0456,GMT-05:00 America/New_York,-82.47,35.33
+Starbucks,4184-98065,Ingles-Hendersonville #179,Licensed,3643 Howard Gap Rd,Hendersonville,NC,US,287923164,828-696-2521,GMT-05:00 America/New_York,-82.43,35.35
+Starbucks,27876-245464,Four Seasons Boulevard & I-26,Company Owned,103 Mitchelle Drive,Hendersonville,NC,US,28792,8287859285,GMT-05:00 America/New_York,-82.44,35.34
+Starbucks,11214-96961,Hickory North,Company Owned,"1342 2nd St., NE",Hickory,NC,US,286012555,828-322-3451,GMT-05:00 America/New_York,-81.34,35.75
+Starbucks,14515-118344,Lenoir Rhyne Blvd & I-40,Company Owned,1186 Lenoir Rhyne Blvd,Hickory,NC,US,286025169,828-322-8019,GMT-05:00 America/New_York,-81.31,35.72
+Starbucks,23886-233570,Target Hickory T-1181,Licensed,"1910 Catawba Valley Blvd SE, Family Video",Hickory,NC,US,28602,828-267-0032,GMT-05:00 America/New_York,-81.31,35.7
+Starbucks,8961-95301,"High Point, NC",Company Owned,"2101 N. Main Street, Suite 103",High Point,NC,US,272627700,336-889-8987,GMT-05:00 America/New_York,-80.02,35.98
+Starbucks,25847-236825,High Point University-Cottrell Hall,Licensed,5th Street,High Point,NC,US,27262,,GMT-05:00 America/New_York,-80,35.98
+Starbucks,8486-35081,Shoppes at Deep River,Company Owned,3875 John Gordon Lane,High Point,NC,US,272658046,336-841-1072,GMT-05:00 America/New_York,-79.96,36.04
+Starbucks,79361-101270,Harris Teeter - High Point #341,Licensed,265 Eastchester Dr,High Point,NC,US,272627731,336-869-6317,GMT-05:00 America/New_York,-80.02,35.98
+Starbucks,79270-93640,Harris Teeter-Holly Springs #118,Licensed,5277 Sunset Lake Rd,Holly Springs,NC,US,275403768,919-363-3059,GMT-05:00 America/New_York,-78.8,35.66
+Starbucks,19453-175544,Hwy 55 & New Hill Road,Company Owned,185 Grand Hill Place,Holly Springs,NC,US,27540,9195573246,GMT-05:00 America/New_York,-78.85,35.66
+Starbucks,17058-176749,Target Holly Springs T-2785,Licensed,100 Grand Hill Place,Holly Springs,NC,US,27540,919-762-3149,GMT-05:00 America/New_York,-78.82,35.63
+Starbucks,79330-98073,Teeter-Huntersville #272,Licensed,"7715 Regency Lake Dr, Rosedale Commons",Huntersville,NC,US,280788938,704-892-1197,GMT-05:00 America/New_York,-80.9,35.44
+Starbucks,10691-100498,Rosedale,Company Owned,"9832 Gilead Road, Space D101, Birkdale Village",Huntersville,NC,US,280787512,704-948-4278,GMT-05:00 America/New_York,-80.86,35.41
+Starbucks,8453-35539,Birkdale,Company Owned,16846B Birkdale Commons Pkwy,Huntersville,NC,US,280781814,704-892-2557,GMT-05:00 America/New_York,-80.88,35.45
+Starbucks,76149-89021,Target Huntersville T-966,Licensed,9801 Sam Furr Rd,Huntersville,NC,US,280788219,(704) 896-1813,GMT-05:00 America/New_York,-80.86,35.44
+Starbucks,14112-99037,Sam Furr Rd & Hwy 115,Company Owned,"9932 Knockando Lane, Sun Valley Shopping Center",Huntersville,NC,US,280785054,704-892-1063,GMT-05:00 America/New_York,-80.86,35.44
+Starbucks,13475-107336,Sun Valley,Company Owned,"6701 Old Monroe Rd, Suite A",Indian Trail,NC,US,280796628,704-225-8134,GMT-05:00 America/New_York,-80.65,35.05
+Starbucks,23889-233572,Target Jacksonville T-1226,Licensed,1395D Western Blvd,Jacksonville,NC,US,28546,,GMT-05:00 America/New_York,-77.4,34.79
+Starbucks,22256-213884,Western & Gateway,Company Owned,"1654 Western Boulevard, Lot 2, Jacksonville Mall",Jacksonville,NC,US,28546,9106508660,GMT-05:00 America/New_York,-77.4,34.79
+Starbucks,9801-98437,Jacksonville,Company Owned,370 Western Boulevard,Jacksonville,NC,US,285466303,910-455-8720,GMT-05:00 America/New_York,-77.38,34.76
+Starbucks,78069-115624,Furnitureland South,Licensed,5635 Riverdale Dr,Jamestown,NC,US,272829171,336-822-3702,GMT-05:00 America/New_York,-79.93,35.97
+Starbucks,76588-101401,Target Kernersville T-2134,Licensed,1024 S Main St,Kernersville,NC,US,272848178,336-992-1680,GMT-05:00 America/New_York,-80.1,36.11
+Starbucks,11058-243148,1020 S. Main Street,Company Owned,"1020 S. Main Street, 1A",Kernersville,NC,US,27284,3369962819,GMT-05:00 America/New_York,-80.1,36.11
+Starbucks,70320-99584,Harris Teeter-Kernersville #250,Licensed,971 S Main St,Kernersville,NC,US,272847439,3369929735,GMT-05:00 America/New_York,-80.09,36.11
+Starbucks,22588-195826,Harris Teeter Kill Devils Hills # 1,Licensed,2012 South Croatan Highway,Kill Devil Hills,NC,US,27948,252-449-9191,GMT-05:00 America/New_York,-75.65,35.99
+Starbucks,19898-201167,Ingles Kings Mountain # 147,Licensed,"2111 Shelby Rd, Marketplace at Southern Shores",Kings Mountain,NC,US,28086,704-739-2970,GMT-05:00 America/New_York,-81.4,35.24
+Starbucks,13258-105758,Kitty Hawk,Company Owned,5597-A North Croatan Highway,Kitty Hawk,NC,US,279494090,252-255-0790,GMT-05:00 America/New_York,-75.72,36.1
+Starbucks,76589-98291,Target Knightdale T-2111,Licensed,1000 Shoppes at Midway Dr,Knightdale,NC,US,275457313,919-388-6100,GMT-05:00 America/New_York,-78.5,35.79
+Starbucks,26652-239808,Knightdale,Company Owned,212 Hinton Oaks Boulevard,Knightdale,NC,US,27545,9198015181,GMT-05:00 America/New_York,-78.51,35.8
+Starbucks,29082-105498,Harris Teeter - Leland #225,Licensed,2021 Olde Regent Way,Leland,NC,US,28451,910-371-3944,GMT-05:00 America/New_York,-78.02,34.22
+Starbucks,22986-226825,Ingles Lincolnton #148,Licensed,2130 E Main St,Lincolnton,NC,US,28092,704-735-0269,GMT-05:00 America/New_York,-81.22,35.48
+Starbucks,19348-136169,I-95 & Fayetteville Rd - Lumberton,Company Owned,5084 Kahn Drive,Lumberton,NC,US,28358,9107397914,GMT-05:00 America/New_York,-79.01,34.67
+Starbucks,76150-89022,Target Charlotte SE T-918,Licensed,1900 Matthews Township Pkwy,Matthews,NC,US,281054660,704-845-0948,GMT-05:00 America/New_York,-80.71,35.12
+Starbucks,14981-156052,Harris Teeter-Matthews #157,Licensed,1811 Matthews Township Pkwy,Matthews,NC,US,281054659,704-846-7117,GMT-05:00 America/New_York,-80.71,35.12
+Starbucks,79359-101268,Harris Teeter - Matthews #343,Licensed,13639 Providence Rd,Matthews,NC,US,281049373,704-847-5955,GMT-05:00 America/New_York,-80.76,35.02
+Starbucks,8697-93960,Sycamore Commons,Company Owned,"2233 Matthews Township Parkway, Suite A",Matthews,NC,US,281054823,704-841-1398,GMT-05:00 America/New_York,-80.7,35.13
+Starbucks,25954-242179,Mebane Oaks Rd & I-85,Company Owned,3890 Brundage Lane,Mebane,NC,US,27302,3365243331,GMT-05:00 America/New_York,-79.27,36.07
+Starbucks,19011-197245,Ingles Mills River # 133,Licensed,3338 Boylston Hwy,Mills River,NC,US,28759,828-891-3260,GMT-05:00 America/New_York,-82.57,35.4
+Starbucks,24359-235925,Harris Teeter Mint Hill # 474,Licensed,7036 Brighton Park Dr,Mint Hill,NC,US,28227,704-545-3281,GMT-05:00 America/New_York,-80.66,35.17
+Starbucks,15707-161325,Hwy 74 & Windmere - Monroe,Company Owned,2937 Monroe Way,Monroe,NC,US,28110,7042258006,GMT-05:00 America/New_York,-80.58,35.02
+Starbucks,76456-98560,Target Monroe  T-2074,Licensed,2901 W Hwy 74,Monroe,NC,US,281108435,704-225-8378,GMT-05:00 America/New_York,-80.58,35.02
+Starbucks,73818-108010,Harris Teeter - Mooresville #274,Licensed,"118 Argus Lane, Mount Mourne Springs",Mooresville,NC,US,281176977,704-799-2004,GMT-05:00 America/New_York,-80.9,35.6
+Starbucks,13421-107187,Mount Mourne,Company Owned,235 Medical Park Road,Mooresville,NC,US,281178545,704-662-8425,GMT-05:00 America/New_York,-80.85,35.55
+Starbucks,73916-103336,Harris Teeter-Mooresville #99,Licensed,134 Town Center Drive,Mooresville,NC,US,281179158,704-799-1066,GMT-05:00 America/New_York,-80.88,35.59
+Starbucks,8765-202507,River Highway & Rolling Hill Road,Company Owned,"489 River Hwy, Suite A",Mooresville,NC,US,28117,,GMT-05:00 America/New_York,-80.86,35.59
+Starbucks,76101-78200,Super Target Mooresville ST-1505,Licensed,"594 River Hwy, Crystal Coast Plaza",Mooresville,NC,US,281176829,704-799-1233,GMT-05:00 America/New_York,-80.87,35.6
+Starbucks,11761-106174,"Morehead City, NC",Company Owned,"5186 Hwy 70, Unit A",Morehead City,NC,US,28557,252-726-5758,GMT-05:00 America/New_York,-76.81,34.74
+Starbucks,4185-147768,Ingles-Morganton #120,Licensed,114 Carbon City Rd,Morganton,NC,US,286554226,,GMT-05:00 America/New_York,-81.71,35.74
+Starbucks,16134-157964,Target Morrisville T-2721,Licensed,"3001 Market Center Dr, A",Morrisville,NC,US,27560,9193792180,GMT-05:00 America/New_York,-78.82,35.81
+Starbucks,47228-255067,Park West Village,Company Owned,"3037 Village Market Place, 190, 919-",Morrisville,NC,US,27560,9192192205,GMT-05:00 America/New_York,-78.82,35.81
+Starbucks,21592-212352,RDU T1 Post-Security,Licensed,"2400 John Brantley Blvd, Davis Commons",Morrisville,NC,US,27560,919-840-5155,GMT-05:00 America/New_York,-78.8,35.87
+Starbucks,9657-97677,Grace Park,Company Owned,3608-400 Davis Drive,Morrisville,NC,US,275608818,919-460-1170,GMT-05:00 America/New_York,-78.85,35.82
+Starbucks,24358-235924,Harris Teeter @ Morrisville # 104,Licensed,4093 Davis Drive,Morrisville,NC,US,27560,919-380-0354,GMT-05:00 America/New_York,-78.86,35.84
+Starbucks,50154-272526,RDU - T2 Temp,Licensed,2400 John Brantley Blvd,Morrisville,NC,US,27560,,GMT-05:00 America/New_York,-78.79,35.87
+Starbucks,21591-212353,RDU T1 Baggage Claim,Licensed,2400 W Terminal Blvd,Morrisville,NC,US,27560,,GMT-05:00 America/New_York,-78.8,35.87
+Starbucks,22980-226624,Ingles Murphy - #25,Licensed,2060 Hwy 19,Murphy,NC,US,28906,828-837-3043,GMT-05:00 America/New_York,-84.01,35.11
+Starbucks,27335-238027,Cherokee River Valley Hotel and Cas,Licensed,777 Casino Parkway,Murphy,NC,US,28906,,GMT-05:00 America/New_York,-83.99,35.12
+Starbucks,76568-101400,Target New Bern T-1015,Licensed,3410 Dr Martin Luther King Blvd,New Bern,NC,US,285625220,252-638-2954,GMT-05:00 America/New_York,-77.1,35.1
+Starbucks,25484-227605,New Bern Mall,Company Owned,3182 Martin Luther King Jr Blvd,New Bern,NC,US,28562,2527758605,GMT-05:00 America/New_York,-77.09,35.1
+Starbucks,73729-108017,Harris Teeter - New Bern #221,Licensed,2019 S Glenburnie Road,New Bern,NC,US,285625228,252-514-0060,GMT-05:00 America/New_York,-77.1,35.1
+Starbucks,29948-255746,Harris Teeter New Bern # 139,Licensed,"Hwy. 70 & Thurmann St., Northlake Mall",New Bern,NC,US,28562,2526325226,GMT-05:00 America/New_York,-77,35.01
+Starbucks,9658-96819,Northlake Mall,Company Owned,"6801 Northlake Mall Drive, Space K101",North Charlotte,NC,US,282163328,704-597-5883,GMT-05:00 America/New_York,-80.85,35.35
+Starbucks,15952-159190,UNC Pembroke,Licensed,1 University Rd,Pembroke,NC,US,283728699,910-775-4197,GMT-05:00 America/New_York,-79.2,34.69
+Starbucks,27170-237504,Harris Teeter Pinehurst # 80,Licensed,"305 Ivey Ln, Carolina Place",Pinehurst,NC,US,28374,910-255-0104,GMT-05:00 America/New_York,-79.48,35.21
+Teavana,28542-250009,Teavana - Carolina Place,Company Owned,"11025 Carolina Place Pkwy, #A-21, Carolina Place Mall",Pineville,NC,US,28134,704-341-2164,GMT-05:00 America/New_York,-80.88,35.08
+Starbucks,8500-40659,Carolina Place Mall,Company Owned,"11025 Carolina Place Parkway, A-140",Pineville,NC,US,281348399,704-540-9451,GMT-05:00 America/New_York,-80.88,35.08
+Starbucks,8270-1606,Stonehenge,Company Owned,"7498 Creedmor Road, Crabtree Valley Mall",Raleigh,NC,US,276131664,(919) 846-0633,GMT-05:00 America/New_York,-78.68,35.89
+Teavana,28296-249802,Teavana - Crabtree Valley Mall,Company Owned,"4325 Glenwood Ave., #1068",Raleigh,NC,US,27612,919-783-7900,GMT-05:00 America/New_York,-78.68,35.84
+Starbucks,21218-202504,Capital & Spring Forest,Company Owned,5100 Capital Blvd,Raleigh,NC,US,27616,919-713-2135,GMT-05:00 America/New_York,-78.58,35.86
+Starbucks,75937-101885,Marriott Downtown Raleigh,Licensed,"500 Fayetteville St. Mall, Triangle Town Center",Raleigh,NC,US,276012118,919-334-9894,GMT-05:00 America/New_York,-78.64,35.77
+Starbucks,8529-54239,Triangle Towne Mall,Company Owned,"5959 Triangle Town Boulevard, Unit CL1136",Raleigh,NC,US,276163268,919-792-2227,GMT-05:00 America/New_York,-78.58,35.87
+Starbucks,8373-18706,Glenwood & Peace,Company Owned,609 W Peace St,Raleigh,NC,US,276051519,919-754-9007,GMT-05:00 America/New_York,-78.65,35.79
+Starbucks,8214-170244,Falls of Neuse @ Spring Forest Rd.,Company Owned,"6176 Falls of Neuse Road, LL01A, Falls Pointe Shopping Center",Raleigh,NC,US,276093528,,GMT-05:00 America/New_York,-78.62,35.87
+Starbucks,8495-41081,Village at Falls Pointe,Company Owned,"9630 Falls of the Neuse Road, 101, North Hills Plaza",Raleigh,NC,US,276152434,919-847-1363,GMT-05:00 America/New_York,-78.6,35.9
+Starbucks,8459-34859,North Hills Plaza,Company Owned,"4421 Six Forks Road, 116, Cameron Village Shopping Center",Raleigh,NC,US,276095761,919-571-0713,GMT-05:00 America/New_York,-78.64,35.84
+Starbucks,8218-855,Cameron Village - HT,Company Owned,500 Oberlin Road,Raleigh,NC,US,276051318,(919) 856-9444,GMT-05:00 America/New_York,-78.66,35.79
+Starbucks,25488-233566,Harris Teeter - Raleigh #319,Licensed,"2051 W Millbrook Rd, North Hills Mall",Raleigh,NC,US,27612,919-787-1364,GMT-05:00 America/New_York,-78.68,35.86
+Starbucks,9789-96997,North Hills Center,Company Owned,"4160 Main Street, Suite 105",Raleigh,NC,US,276095754,919-420-0514,GMT-05:00 America/New_York,-78.64,35.84
+Starbucks,76282-93055,Target Raleigh  Central T-1892,Licensed,4191 The Circle at N Hills St.,Raleigh,NC,US,276095712,,GMT-05:00 America/New_York,-78.64,35.84
+Starbucks,8272-1608,Old Raleigh Village,Company Owned,3101-305 Edwards Mill Road,Raleigh,NC,US,276125303,9197894422,GMT-05:00 America/New_York,-78.71,35.83
+Starbucks,70021-128585,RDU Terminal C Presecurity,Licensed,1025 Airside Dr,Raleigh,NC,US,27623,919-840-0506,GMT-05:00 America/New_York,-78.79,35.86
+Starbucks,8217-822,Pleasant Valley Promenade,Company Owned,"6282 Glenwood Avenue, Alexander Place",Raleigh,NC,US,276122651,(919) 785-0111,GMT-05:00 America/New_York,-78.7,35.86
+Starbucks,8875-94175,Alexander Place,Company Owned,"7854 Alexander Promenade Pl., Bldg. H, Ste. 1, Lake Boone Shopping Center",Raleigh,NC,US,276177833,919-957-9587,GMT-05:00 America/New_York,-78.78,35.91
+Starbucks,11189-101304,Lake Boone Trail,Company Owned,3800 Lake Boone Trail,Raleigh,NC,US,276072927,919 781-6211,GMT-05:00 America/New_York,-78.69,35.82
+Starbucks,76118-79329,Super Target Raleigh ST-1826,Licensed,7900 Old Wake Forest Rd,Raleigh,NC,US,276163319,919-790-1024,GMT-05:00 America/New_York,-78.57,35.87
+Starbucks,23848-188525,Talley Student Center,Licensed,1610 Cates Ave,Raleigh,NC,US,27607,9195132013,GMT-05:00 America/New_York,-78.67,35.78
+Starbucks,70017-128605,RDU Terminal C Central Atrium,Licensed,"1025 Airside Dr, Triangle Town Center",Raleigh,NC,US,27623,919-840-0506,GMT-05:00 America/New_York,-78.79,35.88
+Teavana,28308-249932,Teavana - Triangle Town Center,Company Owned,"5959 Triangle Town Blvd., #2080",Raleigh,NC,US,27616,919-792-0000,GMT-05:00 America/New_York,-78.58,35.87
+Starbucks,2970-79142,Wakefield Commons,Company Owned,"10760 Wakefield Commons Dr., Ste. 109, New Bern Commons",Raleigh,NC,US,276148437,919-453-1010,GMT-05:00 America/New_York,-78.54,35.94
+Starbucks,9465-96435,New Bern Commons,Company Owned,4421 New Bern Avenue,Raleigh,NC,US,276101443,919-231-3271,GMT-05:00 America/New_York,-78.56,35.8
+Starbucks,8589-267123,Crabtree,Company Owned,"4325 Glenwood Avenue, 2119",Raleigh,NC,US,27612,9197880656,GMT-05:00 America/New_York,-78.68,35.84
+Starbucks,16019-160470,Six Forks & Strickland,Company Owned,"9441 Strickland Road, Unit R06, Capital Boulevard Shoppes",Raleigh,NC,US,276151934,9198454566,GMT-05:00 America/New_York,-78.65,35.9
+Starbucks,8462-15594,Capital Blvd.,Company Owned,"3023 Capital Blvd., Premier Landing Shopping Center",Raleigh,NC,US,276043382,919-875-8760,GMT-05:00 America/New_York,-78.59,35.82
+Starbucks,9272-94777,Roanoke Rapids,Company Owned,298 Premier Blvd.,Roanoke Rapids,NC,US,278705076,252-533-5900,GMT-05:00 America/New_York,-77.63,36.42
+Starbucks,76569-101398,Target Rocky Mount T-962,Licensed,"731 Sutters Creek Blvd, Towne Creek Commons",Rocky Mount,NC,US,278048452,252-443-1195,GMT-05:00 America/New_York,-77.81,35.97
+Starbucks,9464-96093,Towne Creek Commons,Company Owned,916 East Innes Street,Salisbury,NC,US,281444638,704-636-1402,GMT-05:00 America/New_York,-80.46,35.66
+Starbucks,29150-252744,S. Horner Blvd & Rosser Rd.,Company Owned,2905 Horner Boulevard,Sanford,NC,US,27332,9107590647,GMT-05:00 America/New_York,-79.14,35.45
+Starbucks,29756-254873,Ingles Shelby 12,Licensed,1650 W Dixon Blvd,Shelby,NC,US,28152,704-482-7761,GMT-05:00 America/New_York,-81.57,35.29
+Starbucks,26655-227604,Hwy 70 & Smithfield Crossing,Company Owned,"110 S. Equity Drive, Statesville",Smithfield,NC,US,27577,9196214996,GMT-05:00 America/New_York,-78.32,35.51
+Starbucks,9363-94798,Statesville,Company Owned,1501 East Broad Street,Statesville,NC,US,286254481,704-872-2066,GMT-05:00 America/New_York,-80.86,35.79
+Starbucks,25333-237535,Ingles Swannanoa # 34,Licensed,2299 US Hwy 70,Swannanoa,NC,US,28778,828-668-0541,GMT-05:00 America/New_York,-82.42,35.6
+Starbucks,48487-263204,Harris Teeter Wake Forest # 43,Licensed,3638 Rogers Rd,Wake Forest,NC,US,27587,919-562-9521,GMT-05:00 America/New_York,-78.5,35.94
+Starbucks,76100-78182,Super Target Wake Forest ST-1504,Licensed,12000 Retail Dr,Wake Forest,NC,US,275877353,919-761-1001,GMT-05:00 America/New_York,-78.54,35.97
+Starbucks,22077-213924,Tom Short Rd & Rea Rd,Company Owned,"9700 Rea Rd, Ste A",Waxhaw,NC,US,28173,7048441038,GMT-05:00 America/New_York,-80.8,35.02
+Starbucks,18564-98074,Harris Teeter-Waxhaw #182,Licensed,8157 Kesington Drive,Waxhaw,NC,US,28173,704-243-1238,GMT-05:00 America/New_York,-80.76,34.95
+Starbucks,73925-98097,Ingles-Waynesville #23,Licensed,201 Barber Blvd,Waynesville,NC,US,287862872,828-456-7599,GMT-05:00 America/New_York,-82.99,35.5
+Starbucks,73930-135204,Ingles - Weaverville #180,Licensed,140 Weaver Blvd,Weaverville,NC,US,287878345,828-645-2902,GMT-05:00 America/New_York,-82.57,35.7
+Starbucks,76939-128669,Target Wesley Chapel T-2395,Licensed,"6350 Weddington Monroe Rd, Independence Mall",Wesley Chapel,NC,US,281047924,(704) 234-5271,GMT-05:00 America/New_York,-80.7,35
+Starbucks,18295-181084,Oleander and Independence,Company Owned,3502 Oleander Drive,Wilmington,NC,US,28403,9103921507,GMT-05:00 America/New_York,-77.91,34.22
+Starbucks,5061-141305,Harris Teeter - Wilmington #441,Licensed,2800 S College Rd,Wilmington,NC,US,284126827,910-791-1392,GMT-05:00 America/New_York,-77.89,34.2
+Starbucks,23185-130524,Harris Teeter - Wilmington #158,Licensed,"820 S College Rd, Landfall Shopping Center",Wilmington,NC,US,284034410,910-452-9242,GMT-05:00 America/New_York,-77.88,34.22
+Starbucks,8487-56939,Landfall,Company Owned,"1705 Eastwood Rd, Ste 5E2",Wilmington,NC,US,284033640,910-509-0332,GMT-05:00 America/New_York,-77.83,34.23
+Starbucks,19555-100653,Harris Teeter-Wilmington # 301,Licensed,1940 Eastwood Rd,Wilmington,NC,US,28403,910-256-2015,GMT-05:00 America/New_York,-77.82,34.22
+Starbucks,23661-94455,Harris Teeter-Wilmington #210,Licensed,6805 Parker Farm Rd,Wilmington,NC,US,28405,910-256-1071,GMT-05:00 America/New_York,-77.83,34.24
+Starbucks,8544-65179,Mayfaire Towne Centre,Company Owned,1005 International Drive,Wilmington,NC,US,284054176,910-256-2097,GMT-05:00 America/New_York,-77.83,34.24
+Starbucks,23651-100652,Harris Teeter-Wilmington # 96,Licensed,"5920 Carolina Beach Road, Best Buy",Wilmington,NC,US,28412,910-796-3091,GMT-05:00 America/New_York,-77.9,34.13
+Starbucks,8518-193866,S College Dr & New Centre Dr,Company Owned,"311 S College Dr, Ste 100",Wilmington,NC,US,28403,9103508943,GMT-05:00 America/New_York,-77.87,34.24
+Starbucks,13625-97032,"Wilson, NC",Company Owned,"3401 Raleigh Rd, Suite 101",Wilson,NC,US,278968218,252-293-1018,GMT-05:00 America/New_York,-77.96,35.74
+Starbucks,76707-97493,Target Wilson T-2168,Licensed,3401 Raleigh Rd Pkwy W,Wilson,NC,US,278968218,252-265-4500,GMT-05:00 America/New_York,-77.97,35.74
+Starbucks,29069-251948,Harris Teeter Winston Salem 216,Licensed,2281 Cloverdale Ave,Winston Salem,NC,US,27103,336-777-1075,GMT-05:00 America/New_York,-80.27,36.09
+Starbucks,21131-180245,Wake Forest University North Campus,Licensed,"1834 Wake Forest Rd, Hanes Mall",Winston Salem,NC,US,27104,336-529-1090,GMT-05:00 America/New_York,-80.28,36.14
+Teavana,28618-249933,Teavana - Hanes Mall,Company Owned,"3320 Silas Creek Pkwy, #136, DBA Fazolis",Winston Salem,NC,US,27103,336-765-7431,GMT-05:00 America/New_York,-80.3,36.07
+Starbucks,11640-100682,University Parkway,Company Owned,5980 University Parkway,Winston-Salem,NC,US,271051342,336-377-2046,GMT-05:00 America/New_York,-80.28,36.19
+Starbucks,25248-239811,Stratford Road & Ricks Drive,Company Owned,"263 Harvey St, Hanes Mall",Winston-Salem,NC,US,27103,3364140268,GMT-05:00 America/New_York,-80.29,36.09
+Starbucks,11059-21181,Hanes Mall Kiosk,Company Owned,"3320  Silas Creek Parkway, PK44",Winston-Salem,NC,US,271033031,336 760-0676,GMT-05:00 America/New_York,-80.3,36.07
+Starbucks,26169-237578,Harris Teeter Winston Salem # 346,Licensed,2835 Reynolda Rd,Winston-Salem,NC,US,27106,336-761-0734,GMT-05:00 America/New_York,-80.3,36.14
+Starbucks,8448-35099,Mt. Tabor Place,Company Owned,3327 Robinhood Road,Winston-Salem,NC,US,271065403,336-768-1221,GMT-05:00 America/New_York,-80.31,36.12
+Starbucks,16923-166304,Target Winston-Salem North T-1077,Licensed,5420 University Pkwy,Winston-Salem,NC,US,271051366,336-992-1680,GMT-05:00 America/New_York,-80.28,36.17
+Starbucks,11269-103675,Jonestown Rd.,Company Owned,"605 Jonestown Road, Hanes Mall",Winston-Salem,NC,US,271031206,336-765-7540,GMT-05:00 America/New_York,-80.34,36.07
+Starbucks,8540-63340,Hanes Mall Blvd.,Company Owned,2015 Frontis Plaza Boulevard,Winston-Salem,NC,US,27103,336-765-2716,GMT-05:00 America/New_York,-80.3,36.06
+Starbucks,8517-37400,Stratford Road,Company Owned,"110 Oakwood Drive, Space U122, N/A",Winston-Salem,NC,US,271031957,336-721-0021,GMT-05:00 America/New_York,-80.28,36.09
+Starbucks,11926-105253,Reynolda Road,Company Owned,2898 Reynolda Road,Winston-Salem,NC,US,271063168,336-761-3783,GMT-05:00 America/New_York,-80.3,36.14
+Starbucks,70058-137244,Wake Forest University Z. Smith Rey,Licensed,1834 Wake Forest Rd,Winston-Salem,NC,US,271096000,336-758-3542,GMT-05:00 America/New_York,-80.28,36.13
+Starbucks,27558-246784,Wake Forest Unv Bap Med - Winst-Sal,Licensed,1 Medical Center Blvd,Winston-Salem,NC,US,27103,336-713-3053,GMT-05:00 America/New_York,-80.27,36.09
