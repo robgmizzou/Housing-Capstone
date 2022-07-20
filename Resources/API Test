@@ -1,0 +1,14 @@
+import requests
+
+url = "https://zillow-com1.p.rapidapi.com/propertyExtendedSearch"
+
+querystring = {"location":"santa monica, ca","home_type":"Houses"}
+
+headers = {
+	"X-RapidAPI-Key": "c908b31ea5mshb018fc83e5ca6bcp1fbe04jsn61a6592fc146",
+	"X-RapidAPI-Host": "zillow-com1.p.rapidapi.com"
+}
+
+response = requests.request("GET", url, headers=headers, params=querystring)
+
+print(response.text)
