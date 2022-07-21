@@ -1,0 +1,339 @@
+,Street Address,City,Longitude,Latitude
+0,110 Columbus Drive,Aberdeen,-79.42,35.16
+1,750 W Williams St,Apex,-78.86,35.74
+2,940 US Hwy 64,Apex,-78.82,35.74
+3,1201 Beaver Creek Commons Dr,Apex,-78.87,35.74
+4,15 McKenna Rd,Arden,-82.53,35.46
+5,301 Long Shoals Rd,Arden,-82.55,35.48
+6,115 River Hills Rd,Asheville,-82.52,35.58
+7,29 Tunnel Rd,Asheville,-82.54,35.6
+8,"26 Carl Alwin Place, 10",Asheville,-82.55,35.48
+9,1141 Tunnel Rd,Asheville,-82.49,35.59
+10,1865 Hendersonville Rd,Asheville,-82.52,35.5
+11,"40 All Souls Crescent Street, Biltmore Village Center",Asheville,-82.54,35.57
+12,1378 Hendersonville Road,Asheville,-82.53,35.52
+13,915 Merrimon Ave,Asheville,-82.55,35.63
+14,575 New Leicester Hwy,Asheville,-82.63,35.61
+15,3 S Tunnel Road,Asheville,-82.53,35.58
+16,863 BREVARD RD.,ASHEVILLE,-82.61,35.53
+17,62 Charlotte Street,Asheville,-82.55,35.6
+18,"800 Brevard Road, N109",Asheville,-82.6,35.53
+19,550 HIGHWAY 9,Black Mountain,-82.32,35.61
+20,240 Shadowline Dr,Boone,-81.66,36.2
+21,710 N Broad St,Brevard,-82.73,35.24
+22,113 Main St,Buies Creek,-78.74,35.41
+23,2727 S Church St,Burlington,-79.48,36.08
+24,"1475 University Dr, Colonial Mall",Burlington,-79.52,36.07
+25,"451 Huffman Mill Road, University Commons",Burlington,-79.49,36.08
+26,"1447 ""A"" University Drive",Burlington,-79.52,36.07
+27,400 E US Highway 19 E Byp,Burnsville,-82.29,35.91
+28,1231 Birch St,Camp Lejenue,-77.34,34.67
+29,1572 Sand Hill Rd,Candler,-82.66,35.55
+30,630 Champion Dr,Canton,-82.84,35.54
+31,3430 Ten Ten Rd,Cary,-78.79,35.7
+32,"1107 Walnut Street, Suite 102, Kildaire Plaza",Cary,-78.76,35.77
+33,"1217 Kildaire Farm Road, The Arboretum",Cary,-78.78,35.76
+34,125 Weston Parkway,Cary,-78.77,35.83
+35,2080 Kildaire Farm Rd,Cary,-78.78,35.74
+36,7145 O'Kelly Chapel Rd,Cary,-78.89,35.84
+37,1150 Green Level to Durham Rd,Cary,-78.9,35.82
+38,1151 TRYON VILLAGE DRIVE,Cary,-78.74,35.75
+39,1015 Parkside Main St,Cary,-78.89,35.85
+40,"885 Walnut St, Tryon Village",Cary,-78.77,35.77
+41,"8204 Tryon Woods Dr, Suite 120, Northwoods Center",Cary,-78.74,35.75
+42,1904 Northwest Maynard Road,Cary,-78.8,35.8
+43,"7129 O'Kelly Chapel Road, High House Shops",Cary,-78.89,35.85
+44,2840 NC Highway 55,Cary,-78.87,35.79
+45,98 Cornerstone Dr,Cary,-78.85,35.79
+46,"204 Crossroads Blvd, Suite 200",Cary,-78.74,35.76
+47,270 GRANDE HEIGHTS DR.,CARY,-78.78,35.81
+48,230 US 64 E,Cashiers,-83.1,35.11
+49,101 Manning Dr,Chapel Hill,-79.05,35.9
+50,"104 Ridge Rd, Eastgate Shopping Center",Chapel Hill,-79.04,35.91
+51,"1800 E Franklin Street, Suite B",Chapel Hill,-79.03,35.94
+52,88 Chatham Downs,Chapel Hill,-79.09,35.83
+53,2110  S Estes Dr,Chapel Hill,-79.03,35.93
+54,116 W. Barbee Chapel Rd,Chapel Hill,-79.01,35.91
+55,103 East Franklin Street,Chapel Hill,-79.06,35.91
+56,101 S. Tryon Street,Charlotte,-80.84,35.23
+57,"9201 University City Blvd, Piper Glen",Charlotte,-80.73,35.3
+58,6432 Rea Road,Charlotte,-80.82,35.08
+59,"4425 Park Road, 100",Charlotte,-80.85,35.17
+60,5501 Josh Birmingham Pkwy,Charlotte,-80.93,35.22
+61,"3540 Mount Holly-Huntersville Rd, Stonecrest",Charlotte,-80.95,35.32
+62,7922 Rea Road,Charlotte,-80.81,35.06
+63,7860 Rea Rd,Charlotte,-80.81,35.06
+64,5434 New Fashion Way,Charlotte,-80.97,35.17
+65,10616 Providence Road,Charlotte,-80.77,35.07
+66,9531 South Blvd,Charlotte,-80.88,35.11
+67,5810 Highland Shoppes Dr,Charlotte,-80.8,35.34
+68,1704 Central Ave,Charlotte,-80.81,35.22
+69,"7819 Forest Pine Drive, Southpark Mall",Charlotte,-80.9,35.14
+70,"4400 Sharon Rd., Ste. G31B, Charlotte/Douglas Int'l Airport",Charlotte,-80.83,35.15
+71,5501 Josh Birmingham Parkway,Charlotte,-80.94,35.22
+72,9841 Northlake Ctr Pkwy,Charlotte,-80.86,35.35
+73,8951-A SOUTH TRYON STREET,Charlotte,-80.94,35.14
+74,"5501 R C Josh Birmingham Pkwy, The Arbors",Charlotte,-80.94,35.23
+75,"2121 East Arbors Drive, Suite 110",Charlotte,-80.76,35.34
+76,"4450 Randolph Rd. Ste 100, Duke Energy Center",Charlotte,-80.8,35.18
+77,"135 Levine Avenue of the Arts, Suite 140",Charlotte,-80.85,35.22
+78,"5361 Ballantyne Commons Pkwy, 100",Charlotte,-80.77,35.06
+79,5501 Josh Birmingham Pkwy,Charlotte,-80.95,35.22
+80,1961 East 7th Street,Charlotte,-80.82,35.21
+81,545 Providence Rd.,Charlotte,-80.82,35.2
+82,1401 East Boulevard,Charlotte,-80.84,35.2
+83,13000 S Tryon St,Charlotte,-80.99,35.1
+84,"5501 R C Josh Birmingham Pkwy., Host Marriott/Starbucks Coffee",Charlotte,-80.95,35.23
+85,5501 Josh Birmingham Parkway,Charlotte,-80.94,35.22
+86,15007 John J. Delaney Dr.,Charlotte,-80.85,35.05
+87,4821 Berewick Town Center Dr.,Charlotte,-80.97,35.16
+88,"4100 Carmel Road, Suite L",Charlotte,-80.82,35.12
+89,9870 Rea Rd,Charlotte,-80.81,35.04
+90,201 South College Street,Charlotte,-80.84,35.23
+91,900 Metropolitan Ave,Charlotte,-80.83,35.22
+92,16625 Lancaster Hwy,Charlotte,-80.85,35.02
+93,12830 Walker Branch Dr,Charlotte,-80.99,35.1
+94,"9335 North Tryon Street, 104, Northlake Mall",Charlotte,-80.74,35.31
+95,"6801 Northlake Mall Dr., #238",Charlotte,-80.86,35.35
+96,14523 CAROWINDS BLVD,CHARLOTTE,-80.94,35.1
+97,5501 Josh Birmingham Pkwy,Charlotte,-80.94,35.22
+98,"101 N Tryon St, Charlotte/Douglas Int'l Airport",Charlotte,-80.84,35.23
+99,"5502 Josh Birmingham Parkway, Gateway Village",Charlotte,-80.94,35.22
+100,"800 W Trade St, Ste 140",Charlotte,-80.85,35.23
+101,"3333 Pineville Matthews Rd, Morehead Medical Plaza",Charlotte,-80.78,35.1
+102,1025 Morehead Medical Drive,Charlotte,-80.84,35.21
+103,"13129 S. Tryon St., Suite 100",Charlotte,-80.99,35.1
+104,"1015 Providence Rd, Host Marriott/Starbucks Coffee",Charlotte,-80.83,35.2
+105,"5501 Josh Birmingham Parkway, Blakeney",Charlotte,-80.94,35.22
+106,9820-A Rea Road,Charlotte,-80.81,35.03
+107,"1525 W WT Harris Blvd, South Park Mall",Charlotte,-80.77,35.32
+108,"4400 Sharron Road, C7B",Charlotte,-80.83,35.15
+109,"8514 University Center Blvd, Davis Lake Commons",Charlotte,-80.74,35.3
+110,8439 Davis Lake Parkway,Charlotte,-80.81,35.33
+111,"6701 Morrison Blvd., Park Place Shopping Center",Charlotte,-80.83,35.15
+112,9015 Pineville-Matthews Road,Charlotte,-80.87,35.09
+113,"5501 Josh Birmingham Parkway, Shops of Ballantyne",Charlotte,-80.94,35.22
+114,13855 Conlan Circle,Charlotte,-80.85,35.06
+115,"501 S College St, Grand Plaza",Charlotte,-80.85,35.22
+116,"13024 US Highway 70W, Suite 103",Clayton,-78.5,35.67
+117,"67 Flowers Crossroads Wy, Walgreens Development",Clayton,-78.38,35.65
+118,2785 Lewisville-Clemmons Rd,Clemmons,-80.38,36.02
+119,"7741 Gateway Lane NW, Suite 130",Concord,-80.71,35.37
+120,9900-Suite 124 Poplar Tent Rd,Concord,-80.74,35.42
+121,6065 Bayfield Pkwy,Concord,-80.68,35.42
+122,"1490 US Highway 29, Concord Mills",Concord,-80.61,35.44
+123,"8111 Concord Mills Blvd, 342",Concord,-80.72,35.37
+124,6150 Bayfield Pkwy,Concord,-80.7,35.43
+125,358 George W Liles Pkwy,Concord,-80.67,35.42
+126,"19722 One Lake Norman Blvd, Suite 200",Cornelius,-80.88,35.48
+127,21720 Catawba Ave,Cornelius,-80.86,35.48
+128,19815 N Cove Rd,Cornelius,-80.89,35.48
+129,6010 Currituck Clubhouse DR,Corolla,-75.81,36.3
+130,517 Centennial Drive,Cullowhee,-83.18,35.31
+131,715 W Trade St.,Dallas,-81.18,35.32
+132,"431 Peninsula Drive, Parkwest Crossing",Davidson,-80.86,35.5
+133,4834 NC Hwy 55,Durham,-78.9,35.9
+134,1125 West North Carolina 54 Hwy,Durham,-78.96,35.92
+135,3457 Hillsborough Road,Durham,-78.95,36.02
+136,2301 Erwin Rd,Durham,-78.94,36.01
+137,4201 N Roxboro Street,Durham,-78.9,36.05
+138,"4037 Chapel Hill Blvd, Streets at Southpoint",Durham,-78.96,35.97
+139,"6910 Fayetteville Rd., #1305, Imperial Center",Durham,-78.94,35.91
+140,1119 Slater Rd,Durham,-78.85,35.88
+141,"5319 New Hope Commons Dr, Suite 105, Renaissance at Southpoint",Durham,-78.99,35.95
+142,"6813 Fayetteville Road, Willowdale Shopping Center",Durham,-78.94,35.9
+143,3801 Guess Road,Durham,-78.93,36.06
+144,2107 Hillborough Rd,Durham,-78.92,36.01
+145,8210 Renaissance Pkwy,Durham,-78.95,35.9
+146,4010 Durham Chapel Hill Boulevard,Durham,-78.96,35.97
+147,1817 Martin Luther King Pkwy,Durham,-78.96,35.96
+148,"691 S Hughes Blvd, Cross Creek Mall",Elizabeth City,-76.25,36.29
+149,"565 Cross Creek Mall, Suite 100",Fayetteville,-78.96,35.07
+150,"5400 Ramsey St, The Shoppes at Walter Reed",Fayetteville,-78.87,35.13
+151,1445 Walter Reed Road,Fayetteville,-78.94,35.04
+152,"2056 Skibo Rd, Ramsey Commons",Fayetteville,-78.97,35.06
+153,4401 N Ramsey Street,Fayetteville,-78.88,35.12
+154,3050 Traemoor Village Dr,Fayetteville,-79.01,34.98
+155,2800 Raeford Rd,Fayetteville,-78.92,35.05
+156,220 Highland Lake Rd,Flat Rock,-82.43,35.29
+157,2901 Hendersonville Rd,Fletcher,-82.51,35.44
+158,765 S Church St,Forest City,-81.88,35.32
+159,"3571 Butner Road, Bldg 8-5476A",Fort Bragg,-78.97,35.16
+160,Building 42171 Reilly Road,Fort Bragg,-79.0,35.13
+161,1017 Canopy LN,Fort Bragg,-79.01,35.11
+162,1380 North Main St,Fuquay-Varina,-78.78,35.59
+163,2700 Timber Dr,Garner,-78.64,35.72
+164,"Rt. 401 & Ten Ten, White Oak Cabella's",Garner,-78.7,35.66
+165,180 Cabela Drive,Garner,-78.58,35.7
+166,425 Cox Rd,Gastonia,-81.13,35.26
+167,3350 Robinwood Dr,Gastonia,-81.16,35.22
+168,420 Cox Road,Gastonia,-81.13,35.26
+169,1204 Sunburst Dr,Goldsboro,-77.94,35.38
+170,"2116-A Wayne Memorial Dr, Berkley Mall",Goldsboro,-77.96,35.4
+171,603 North Berkeley Blvd,Goldsboro,-77.94,35.38
+172,4010 Battleground Ave,Greensboro,-79.87,36.15
+173,3330 W. Friendly Ave.,Greensboro,-79.84,36.09
+174,4016 Battleground Ave,Greensboro,-79.87,36.15
+175,"1212 Bridford Pkwy, Jefferson Village",Greensboro,-79.9,36.05
+176,"1562 Highwoods Blvd, Suite C",Greensboro,-79.88,36.11
+177,"1628 Highwoods Blvd, Elmsley Square Shopping Center",Greensboro,-79.88,36.11
+178,"3711 Elmsley Street, Suite 108, Friendly Center",Greensboro,-79.79,36.0
+179,"3326 W. Friendly Ave., #137, Colonial Shoppes at Quaker Shopping Cntr",Greensboro,-79.84,36.09
+180,5607 W Friendly Ave,Greensboro,-79.89,36.09
+181,5710 W Gate City Blvd,Greensboro,-79.9,36.02
+182,401 Pisguah Church Rd,Greensboro,-79.8,36.13
+183,1000 Ted Johnson Pkwy,Greensboro,-79.93,36.12
+184,"701 Frances King St, Four Seasons Town Centre Mall",Greensboro,-79.89,36.09
+185,"400 Four Seasons Town Centre, Space #1K5-A, Patriots Place Shopping Center",Greensboro,-79.84,36.04
+186,505 Pisgah Church Road,Greensboro,-79.8,36.13
+187,1000 Ted Johnson Pkwy,Greensboro,-79.93,36.12
+188,1603 Battleground Avenue,Greensboro,-79.81,36.09
+189,2639 Lawndale Dr,Greensboro,-79.82,36.1
+190,1601 E Market St,Greensboro,-79.77,36.07
+191,"E 5th Str, Stanton Square Shopping Center",Greenville,-77.37,35.61
+192,"2205 W. Arlington Blvd., Suite A",Greenville,-77.41,35.61
+193,100 East 10th Street,Greenville,-77.37,35.61
+194,3040 EVANS ST,Greenville,-77.38,35.58
+195,"1001 East 5th Street, Jones Hall on College Hill Dr.",Greenville,-77.36,35.61
+196,"4100 Humber Dr, Unit 100",Greenville,-77.41,35.55
+197,"100 Founders Dr, La Promenade",Greenville,-77.36,35.61
+198,518-B Greenville Blvd. SE,Greenville,-77.37,35.58
+199,"2120 E Firetower Rd, Suite 101",Greenville,-77.35,35.57
+200,12190 University City Blvd,Harrisburg,-80.67,35.32
+201,230 Highway 64 E,Hayesville,-83.8,35.03
+202,1980 Asheville Hwy,Hendersonville,-82.47,35.33
+203,3643 Howard Gap Rd,Hendersonville,-82.43,35.35
+204,103 Mitchelle Drive,Hendersonville,-82.44,35.34
+205,"1342 2nd St., NE",Hickory,-81.34,35.75
+206,1186 Lenoir Rhyne Blvd,Hickory,-81.31,35.72
+207,"1910 Catawba Valley Blvd SE, Family Video",Hickory,-81.31,35.7
+208,"2101 N. Main Street, Suite 103",High Point,-80.02,35.98
+209,5th Street,High Point,-80.0,35.98
+210,3875 John Gordon Lane,High Point,-79.96,36.04
+211,265 Eastchester Dr,High Point,-80.02,35.98
+212,5277 Sunset Lake Rd,Holly Springs,-78.8,35.66
+213,185 Grand Hill Place,Holly Springs,-78.85,35.66
+214,100 Grand Hill Place,Holly Springs,-78.82,35.63
+215,"7715 Regency Lake Dr, Rosedale Commons",Huntersville,-80.9,35.44
+216,"9832 Gilead Road, Space D101, Birkdale Village",Huntersville,-80.86,35.41
+217,16846B Birkdale Commons Pkwy,Huntersville,-80.88,35.45
+218,9801 Sam Furr Rd,Huntersville,-80.86,35.44
+219,"9932 Knockando Lane, Sun Valley Shopping Center",Huntersville,-80.86,35.44
+220,"6701 Old Monroe Rd, Suite A",Indian Trail,-80.65,35.05
+221,1395D Western Blvd,Jacksonville,-77.4,34.79
+222,"1654 Western Boulevard, Lot 2, Jacksonville Mall",Jacksonville,-77.4,34.79
+223,370 Western Boulevard,Jacksonville,-77.38,34.76
+224,5635 Riverdale Dr,Jamestown,-79.93,35.97
+225,1024 S Main St,Kernersville,-80.1,36.11
+226,"1020 S. Main Street, 1A",Kernersville,-80.1,36.11
+227,971 S Main St,Kernersville,-80.09,36.11
+228,2012 South Croatan Highway,Kill Devil Hills,-75.65,35.99
+229,"2111 Shelby Rd, Marketplace at Southern Shores",Kings Mountain,-81.4,35.24
+230,5597-A North Croatan Highway,Kitty Hawk,-75.72,36.1
+231,1000 Shoppes at Midway Dr,Knightdale,-78.5,35.79
+232,212 Hinton Oaks Boulevard,Knightdale,-78.51,35.8
+233,2021 Olde Regent Way,Leland,-78.02,34.22
+234,2130 E Main St,Lincolnton,-81.22,35.48
+235,5084 Kahn Drive,Lumberton,-79.01,34.67
+236,1900 Matthews Township Pkwy,Matthews,-80.71,35.12
+237,1811 Matthews Township Pkwy,Matthews,-80.71,35.12
+238,13639 Providence Rd,Matthews,-80.76,35.02
+239,"2233 Matthews Township Parkway, Suite A",Matthews,-80.7,35.13
+240,3890 Brundage Lane,Mebane,-79.27,36.07
+241,3338 Boylston Hwy,Mills River,-82.57,35.4
+242,7036 Brighton Park Dr,Mint Hill,-80.66,35.17
+243,2937 Monroe Way,Monroe,-80.58,35.02
+244,2901 W Hwy 74,Monroe,-80.58,35.02
+245,"118 Argus Lane, Mount Mourne Springs",Mooresville,-80.9,35.6
+246,235 Medical Park Road,Mooresville,-80.85,35.55
+247,134 Town Center Drive,Mooresville,-80.88,35.59
+248,"489 River Hwy, Suite A",Mooresville,-80.86,35.59
+249,"594 River Hwy, Crystal Coast Plaza",Mooresville,-80.87,35.6
+250,"5186 Hwy 70, Unit A",Morehead City,-76.81,34.74
+251,114 Carbon City Rd,Morganton,-81.71,35.74
+252,"3001 Market Center Dr, A",Morrisville,-78.82,35.81
+253,"3037 Village Market Place, 190, 919-",Morrisville,-78.82,35.81
+254,"2400 John Brantley Blvd, Davis Commons",Morrisville,-78.8,35.87
+255,3608-400 Davis Drive,Morrisville,-78.85,35.82
+256,4093 Davis Drive,Morrisville,-78.86,35.84
+257,2400 John Brantley Blvd,Morrisville,-78.79,35.87
+258,2400 W Terminal Blvd,Morrisville,-78.8,35.87
+259,2060 Hwy 19,Murphy,-84.01,35.11
+260,777 Casino Parkway,Murphy,-83.99,35.12
+261,3410 Dr Martin Luther King Blvd,New Bern,-77.1,35.1
+262,3182 Martin Luther King Jr Blvd,New Bern,-77.09,35.1
+263,2019 S Glenburnie Road,New Bern,-77.1,35.1
+264,"Hwy. 70 & Thurmann St., Northlake Mall",New Bern,-77.0,35.01
+265,"6801 Northlake Mall Drive, Space K101",North Charlotte,-80.85,35.35
+266,1 University Rd,Pembroke,-79.2,34.69
+267,"305 Ivey Ln, Carolina Place",Pinehurst,-79.48,35.21
+268,"11025 Carolina Place Pkwy, #A-21, Carolina Place Mall",Pineville,-80.88,35.08
+269,"11025 Carolina Place Parkway, A-140",Pineville,-80.88,35.08
+270,"7498 Creedmor Road, Crabtree Valley Mall",Raleigh,-78.68,35.89
+271,"4325 Glenwood Ave., #1068",Raleigh,-78.68,35.84
+272,5100 Capital Blvd,Raleigh,-78.58,35.86
+273,"500 Fayetteville St. Mall, Triangle Town Center",Raleigh,-78.64,35.77
+274,"5959 Triangle Town Boulevard, Unit CL1136",Raleigh,-78.58,35.87
+275,609 W Peace St,Raleigh,-78.65,35.79
+276,"6176 Falls of Neuse Road, LL01A, Falls Pointe Shopping Center",Raleigh,-78.62,35.87
+277,"9630 Falls of the Neuse Road, 101, North Hills Plaza",Raleigh,-78.6,35.9
+278,"4421 Six Forks Road, 116, Cameron Village Shopping Center",Raleigh,-78.64,35.84
+279,500 Oberlin Road,Raleigh,-78.66,35.79
+280,"2051 W Millbrook Rd, North Hills Mall",Raleigh,-78.68,35.86
+281,"4160 Main Street, Suite 105",Raleigh,-78.64,35.84
+282,4191 The Circle at N Hills St.,Raleigh,-78.64,35.84
+283,3101-305 Edwards Mill Road,Raleigh,-78.71,35.83
+284,1025 Airside Dr,Raleigh,-78.79,35.86
+285,"6282 Glenwood Avenue, Alexander Place",Raleigh,-78.7,35.86
+286,"7854 Alexander Promenade Pl., Bldg. H, Ste. 1, Lake Boone Shopping Center",Raleigh,-78.78,35.91
+287,3800 Lake Boone Trail,Raleigh,-78.69,35.82
+288,7900 Old Wake Forest Rd,Raleigh,-78.57,35.87
+289,1610 Cates Ave,Raleigh,-78.67,35.78
+290,"1025 Airside Dr, Triangle Town Center",Raleigh,-78.79,35.88
+291,"5959 Triangle Town Blvd., #2080",Raleigh,-78.58,35.87
+292,"10760 Wakefield Commons Dr., Ste. 109, New Bern Commons",Raleigh,-78.54,35.94
+293,4421 New Bern Avenue,Raleigh,-78.56,35.8
+294,"4325 Glenwood Avenue, 2119",Raleigh,-78.68,35.84
+295,"9441 Strickland Road, Unit R06, Capital Boulevard Shoppes",Raleigh,-78.65,35.9
+296,"3023 Capital Blvd., Premier Landing Shopping Center",Raleigh,-78.59,35.82
+297,298 Premier Blvd.,Roanoke Rapids,-77.63,36.42
+298,"731 Sutters Creek Blvd, Towne Creek Commons",Rocky Mount,-77.81,35.97
+299,916 East Innes Street,Salisbury,-80.46,35.66
+300,2905 Horner Boulevard,Sanford,-79.14,35.45
+301,1650 W Dixon Blvd,Shelby,-81.57,35.29
+302,"110 S. Equity Drive, Statesville",Smithfield,-78.32,35.51
+303,1501 East Broad Street,Statesville,-80.86,35.79
+304,2299 US Hwy 70,Swannanoa,-82.42,35.6
+305,3638 Rogers Rd,Wake Forest,-78.5,35.94
+306,12000 Retail Dr,Wake Forest,-78.54,35.97
+307,"9700 Rea Rd, Ste A",Waxhaw,-80.8,35.02
+308,8157 Kesington Drive,Waxhaw,-80.76,34.95
+309,201 Barber Blvd,Waynesville,-82.99,35.5
+310,140 Weaver Blvd,Weaverville,-82.57,35.7
+311,"6350 Weddington Monroe Rd, Independence Mall",Wesley Chapel,-80.7,35.0
+312,3502 Oleander Drive,Wilmington,-77.91,34.22
+313,2800 S College Rd,Wilmington,-77.89,34.2
+314,"820 S College Rd, Landfall Shopping Center",Wilmington,-77.88,34.22
+315,"1705 Eastwood Rd, Ste 5E2",Wilmington,-77.83,34.23
+316,1940 Eastwood Rd,Wilmington,-77.82,34.22
+317,6805 Parker Farm Rd,Wilmington,-77.83,34.24
+318,1005 International Drive,Wilmington,-77.83,34.24
+319,"5920 Carolina Beach Road, Best Buy",Wilmington,-77.9,34.13
+320,"311 S College Dr, Ste 100",Wilmington,-77.87,34.24
+321,"3401 Raleigh Rd, Suite 101",Wilson,-77.96,35.74
+322,3401 Raleigh Rd Pkwy W,Wilson,-77.97,35.74
+323,2281 Cloverdale Ave,Winston Salem,-80.27,36.09
+324,"1834 Wake Forest Rd, Hanes Mall",Winston Salem,-80.28,36.14
+325,"3320 Silas Creek Pkwy, #136, DBA Fazolis",Winston Salem,-80.3,36.07
+326,5980 University Parkway,Winston-Salem,-80.28,36.19
+327,"263 Harvey St, Hanes Mall",Winston-Salem,-80.29,36.09
+328,"3320  Silas Creek Parkway, PK44",Winston-Salem,-80.3,36.07
+329,2835 Reynolda Rd,Winston-Salem,-80.3,36.14
+330,3327 Robinhood Road,Winston-Salem,-80.31,36.12
+331,5420 University Pkwy,Winston-Salem,-80.28,36.17
+332,"605 Jonestown Road, Hanes Mall",Winston-Salem,-80.34,36.07
+333,2015 Frontis Plaza Boulevard,Winston-Salem,-80.3,36.06
+334,"110 Oakwood Drive, Space U122, N/A",Winston-Salem,-80.28,36.09
+335,2898 Reynolda Road,Winston-Salem,-80.3,36.14
+336,1834 Wake Forest Rd,Winston-Salem,-80.28,36.13
+337,1 Medical Center Blvd,Winston-Salem,-80.27,36.09
