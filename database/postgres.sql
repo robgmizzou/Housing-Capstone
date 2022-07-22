@@ -16,3 +16,16 @@ CREATE TABLE properties (
 SELECT COUNT(*) FROM properties
 
 SELECT * FROM properties
+
+CREATE TABLE starbucks (
+   brand VARCHAR,
+	store_number INT NOT NULL,
+	store_name VARCHAR,
+	ownership_type VARCHAR,
+	street_address VARCHAR,
+	city VARCHAR,
+	zipcode INT,
+	latitude FLOAT,
+	longitude FLOAT
+);
+SELECT COUNT(*) FROM starbucks
