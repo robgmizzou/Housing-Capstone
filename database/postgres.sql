@@ -29,3 +29,26 @@ CREATE TABLE starbucks (
 	longitude FLOAT
 );
 SELECT COUNT(*) FROM starbucks
+
+zillow
+-
+propertyType varchar
+lotAreaValue float
+address int pk fk - starbucks.postcode
+price int
+bedrooms int
+longitude float
+latitude float
+zpid int
+bathrooms int
+livingArea int
+
+starbucks
+-
+store_name varchar
+street_address 
+store_number int
+city varchar
+postcode int pk
+latitude float
+longitude float
