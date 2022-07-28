@@ -17,38 +17,36 @@ SELECT COUNT(*) FROM properties
 
 SELECT * FROM properties
 
+CREATE TABLE zillow (
+	rowcount INT,
+	propertyType VARCHAR,
+	lotAreaValue FLOAT,
+	address INT,
+	price INT,
+	bedrooms FLOAT,
+	longitude FLOAT,
+	latitude FLOAT,
+	zpid FLOAT,
+	bathrooms FLOAT,
+	livingArea FLOAT,
+	PRIMARY KEY (zpid)
+);
+
+SELECT COUNT (*) FROM zillow
+
+SELECT * FROM zillow
+
 CREATE TABLE starbucks (
-   brand VARCHAR,
-	store_number INT NOT NULL,
+	rowcount INT NOT NULL,
 	store_name VARCHAR,
-	ownership_type VARCHAR,
 	street_address VARCHAR,
 	city VARCHAR,
-	zipcode INT,
+	postcode INT,
+	longitude FLOAT,
 	latitude FLOAT,
-	longitude FLOAT
+	PRIMARY KEY (rowcount)
 );
+
 SELECT COUNT(*) FROM starbucks
 
-zillow
--
-propertyType varchar
-lotAreaValue float
-address int pk fk - starbucks.postcode
-price int
-bedrooms int
-longitude float
-latitude float
-zpid int
-bathrooms int
-livingArea int
-
-starbucks
--
-store_name varchar
-street_address 
-store_number int
-city varchar
-postcode int pk
-latitude float
-longitude float
+SELECT * FROM starbucks
