@@ -50,3 +50,8 @@ CREATE TABLE starbucks (
 SELECT COUNT(*) FROM starbucks
 
 SELECT * FROM starbucks
+
+SELECT zillow.rowcount, zillow.propertytype, zillow.lotareavalue, zillow.address, zillow.price, zillow.bedrooms, zillow.longitude, zillow.latitude, zillow.zpid, zillow.bathrooms, zillow.livingarea
+FROM zillow
+RIGHT JOIN starbucks
+ON zillow.address = starbucks.postcode
