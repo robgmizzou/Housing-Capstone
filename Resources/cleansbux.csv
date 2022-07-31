@@ -159,7 +159,7 @@
 157,2901 Hendersonville Rd,Fletcher,-82.51,35.44
 158,765 S Church St,Forest City,-81.88,35.32
 159,"3571 Butner Road, Bldg 8-5476A",Fort Bragg,-78.97,35.16
-160,Building 42171 Reilly Road,Fort Bragg,-79.0,35.13
+160,Building 42171 Reilly Road,Fort Bragg,-79,35.13
 161,1017 Canopy LN,Fort Bragg,-79.01,35.11
 162,1380 North Main St,Fuquay-Varina,-78.78,35.59
 163,2700 Timber Dr,Garner,-78.64,35.72
@@ -177,7 +177,7 @@
 175,"1212 Bridford Pkwy, Jefferson Village",Greensboro,-79.9,36.05
 176,"1562 Highwoods Blvd, Suite C",Greensboro,-79.88,36.11
 177,"1628 Highwoods Blvd, Elmsley Square Shopping Center",Greensboro,-79.88,36.11
-178,"3711 Elmsley Street, Suite 108, Friendly Center",Greensboro,-79.79,36.0
+178,"3711 Elmsley Street, Suite 108, Friendly Center",Greensboro,-79.79,36
 179,"3326 W. Friendly Ave., #137, Colonial Shoppes at Quaker Shopping Cntr",Greensboro,-79.84,36.09
 180,5607 W Friendly Ave,Greensboro,-79.89,36.09
 181,5710 W Gate City Blvd,Greensboro,-79.9,36.02
@@ -208,7 +208,7 @@
 206,1186 Lenoir Rhyne Blvd,Hickory,-81.31,35.72
 207,"1910 Catawba Valley Blvd SE, Family Video",Hickory,-81.31,35.7
 208,"2101 N. Main Street, Suite 103",High Point,-80.02,35.98
-209,5th Street,High Point,-80.0,35.98
+209,5th Street,High Point,-80,35.98
 210,3875 John Gordon Lane,High Point,-79.96,36.04
 211,265 Eastchester Dr,High Point,-80.02,35.98
 212,5277 Sunset Lake Rd,Holly Springs,-78.8,35.66
@@ -263,7 +263,7 @@
 261,3410 Dr Martin Luther King Blvd,New Bern,-77.1,35.1
 262,3182 Martin Luther King Jr Blvd,New Bern,-77.09,35.1
 263,2019 S Glenburnie Road,New Bern,-77.1,35.1
-264,"Hwy. 70 & Thurmann St., Northlake Mall",New Bern,-77.0,35.01
+264,"Hwy. 70 & Thurmann St., Northlake Mall",New Bern,-77,35.01
 265,"6801 Northlake Mall Drive, Space K101",North Charlotte,-80.85,35.35
 266,1 University Rd,Pembroke,-79.2,34.69
 267,"305 Ivey Ln, Carolina Place",Pinehurst,-79.48,35.21
@@ -310,7 +310,7 @@
 308,8157 Kesington Drive,Waxhaw,-80.76,34.95
 309,201 Barber Blvd,Waynesville,-82.99,35.5
 310,140 Weaver Blvd,Weaverville,-82.57,35.7
-311,"6350 Weddington Monroe Rd, Independence Mall",Wesley Chapel,-80.7,35.0
+311,"6350 Weddington Monroe Rd, Independence Mall",Wesley Chapel,-80.7,35
 312,3502 Oleander Drive,Wilmington,-77.91,34.22
 313,2800 S College Rd,Wilmington,-77.89,34.2
 314,"820 S College Rd, Landfall Shopping Center",Wilmington,-77.88,34.22
