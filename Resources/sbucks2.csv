@@ -1,0 +1,66 @@
+SB_ID,Store Name,Street Address,City,Postcode,Longitude,Latitude
+1,Harris Teeter-Apex #58,750 W Williams St,Apex,27502,-78.86,35.74
+2,Kroger-Apex #357,940 US Hwy 64,Apex,27523,-78.82,35.74
+3,Super Target Apex ST-1932,1201 Beaver Creek Commons Dr,Apex,27502,-78.87,35.74
+31,Harris Teeter Cary 331,3430 Ten Ten Rd,Cary,27518,-78.79,35.7
+32,Cary Towne Center,"1107 Walnut Street, Suite 102, Kildaire Plaza",Cary,27511,-78.76,35.77
+33,Cary Central,"1217 Kildaire Farm Road, The Arboretum",Cary,27511,-78.78,35.76
+34,Weston Parkway,125 Weston Parkway,Cary,27513,-78.77,35.83
+35,Harris Teeter Cary #257,2080 Kildaire Farm Rd,Cary,27518,-78.78,35.74
+36,Harris Teeter - Cary # 236,7145 O'Kelly Chapel Rd,Cary,27519,-78.89,35.84
+37,Harris Teeter-Cary #298,1150 Green Level to Durham Rd,Cary,27519,-78.9,35.82
+38,Harris Teeter-Cary # 330,1151 TRYON VILLAGE DRIVE,Cary,27518,-78.74,35.75
+39,Parkside Towne Center,1015 Parkside Main St,Cary,27519,-78.89,35.85
+40,Harris Teeter - Cary #430,"885 Walnut St, Tryon Village",Cary,27511,-78.77,35.77
+41,Tryon Village,"8204 Tryon Woods Dr, Suite 120, Northwoods Center",Cary,27518,-78.74,35.75
+42,Evans Road,1904 Northwest Maynard Road,Cary,27513,-78.8,35.8
+43,Target Cary T-2784,"7129 O'Kelly Chapel Road, High House Shops",Cary,27519,-78.89,35.85
+44,High House Road,2840 NC Highway 55,Cary,27519,-78.87,35.79
+45,Harris Teeter-Cary #138,98 Cornerstone Dr,Cary,27519,-78.85,35.79
+46,Crossroads Blvd & Caitboo Ave,"204 Crossroads Blvd, Suite 200",Cary,27511,-78.74,35.76
+47,Harris Teeter Cary 112,270 GRANDE HEIGHTS DR.,CARY,27513,-78.78,35.81
+162,Hwy 401 & Purfoy Rd,1380 North Main St,Fuquay-Varina,27526,-78.78,35.59
+163,Target Garner T-1104,2700 Timber Dr,Garner,27529,-78.64,35.72
+164,Harris Teeter-Garner #283,"Rt. 401 & Ten Ten, White Oak Cabella's",Garner,27529,-78.7,35.66
+165,Hwy 70 & Jones Sausage Rd,180 Cabela Drive,Garner,27529,-78.58,35.7
+212,Harris Teeter-Holly Springs #118,5277 Sunset Lake Rd,Holly Springs,27540,-78.8,35.66
+213,Hwy 55 & New Hill Road,185 Grand Hill Place,Holly Springs,27540,-78.85,35.66
+214,Target Holly Springs T-2785,100 Grand Hill Place,Holly Springs,27540,-78.82,35.63
+231,Target Knightdale T-2111,1000 Shoppes at Midway Dr,Knightdale,27545,-78.5,35.79
+232,Knightdale,212 Hinton Oaks Boulevard,Knightdale,27545,-78.51,35.8
+252,Target Morrisville T-2721,"3001 Market Center Dr, A",Morrisville,27560,-78.82,35.81
+253,Park West Village,"3037 Village Market Place, 190, 919-",Morrisville,27560,-78.82,35.81
+254,RDU T1 Post-Security,"2400 John Brantley Blvd, Davis Commons",Morrisville,27560,-78.8,35.87
+255,Grace Park,3608-400 Davis Drive,Morrisville,27560,-78.85,35.82
+256,Harris Teeter @ Morrisville # 104,4093 Davis Drive,Morrisville,27560,-78.86,35.84
+257,RDU - T2 Temp,2400 John Brantley Blvd,Morrisville,27560,-78.79,35.87
+258,RDU T1 Baggage Claim,2400 W Terminal Blvd,Morrisville,27560,-78.8,35.87
+270,Stonehenge,"7498 Creedmor Road, Crabtree Valley Mall",Raleigh,27613,-78.68,35.89
+271,Teavana - Crabtree Valley Mall,"4325 Glenwood Ave., #1068",Raleigh,27612,-78.68,35.84
+272,Capital & Spring Forest,5100 Capital Blvd,Raleigh,27616,-78.58,35.86
+273,Marriott Downtown Raleigh,"500 Fayetteville St. Mall, Triangle Town Center",Raleigh,27601,-78.64,35.77
+274,Triangle Towne Mall,"5959 Triangle Town Boulevard, Unit CL1136",Raleigh,27616,-78.58,35.87
+275,Glenwood & Peace,609 W Peace St,Raleigh,27605,-78.65,35.79
+276,Falls of Neuse @ Spring Forest Rd.,"6176 Falls of Neuse Road, LL01A, Falls Pointe Shopping Center",Raleigh,27609,-78.62,35.87
+277,Village at Falls Pointe,"9630 Falls of the Neuse Road, 101, North Hills Plaza",Raleigh,27615,-78.6,35.9
+278,North Hills Plaza,"4421 Six Forks Road, 116, Cameron Village Shopping Center",Raleigh,27609,-78.64,35.84
+279,Cameron Village - HT,500 Oberlin Road,Raleigh,27605,-78.66,35.79
+280,Harris Teeter - Raleigh #319,"2051 W Millbrook Rd, North Hills Mall",Raleigh,27612,-78.68,35.86
+281,North Hills Center,"4160 Main Street, Suite 105",Raleigh,27609,-78.64,35.84
+282,Target Raleigh  Central T-1892,4191 The Circle at N Hills St.,Raleigh,27609,-78.64,35.84
+283,Old Raleigh Village,3101-305 Edwards Mill Road,Raleigh,27612,-78.71,35.83
+284,RDU Terminal C Presecurity,1025 Airside Dr,Raleigh,27623,-78.79,35.86
+285,Pleasant Valley Promenade,"6282 Glenwood Avenue, Alexander Place",Raleigh,27612,-78.7,35.86
+286,Alexander Place,"7854 Alexander Promenade Pl., Bldg. H, Ste. 1, Lake Boone Shopping Center",Raleigh,27617,-78.78,35.91
+287,Lake Boone Trail,3800 Lake Boone Trail,Raleigh,27607,-78.69,35.82
+288,Super Target Raleigh ST-1826,7900 Old Wake Forest Rd,Raleigh,27616,-78.57,35.87
+289,Talley Student Center,1610 Cates Ave,Raleigh,27607,-78.67,35.78
+290,RDU Terminal C Central Atrium,"1025 Airside Dr, Triangle Town Center",Raleigh,27623,-78.79,35.88
+291,Teavana - Triangle Town Center,"5959 Triangle Town Blvd., #2080",Raleigh,27616,-78.58,35.87
+292,Wakefield Commons,"10760 Wakefield Commons Dr., Ste. 109, New Bern Commons",Raleigh,27614,-78.54,35.94
+293,New Bern Commons,4421 New Bern Avenue,Raleigh,27610,-78.56,35.8
+294,Crabtree,"4325 Glenwood Avenue, 2119",Raleigh,27612,-78.68,35.84
+295,Six Forks & Strickland,"9441 Strickland Road, Unit R06, Capital Boulevard Shoppes",Raleigh,27615,-78.65,35.9
+296,Capital Blvd.,"3023 Capital Blvd., Premier Landing Shopping Center",Raleigh,27604,-78.59,35.82
+305,Harris Teeter Wake Forest # 43,3638 Rogers Rd,Wake Forest,27587,-78.5,35.94
+306,Super Target Wake Forest ST-1504,12000 Retail Dr,Wake Forest,27587,-78.54,35.97
