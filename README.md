@@ -1,5 +1,7 @@
 # Housing-Capstone
 
+[Wake County Housing Market Tableau Public Link](https://public.tableau.com/app/profile/robert.goldman6612/viz/HousingCapstonev1/PricebyZIP#1)
+
 Team Seven - Marla, Yolanda, Robert<br>
 
 Modeling Wake County Real Estate - Model to provide price estimate based on user inputs<br>
