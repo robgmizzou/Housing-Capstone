@@ -9,11 +9,13 @@
       rel="stylesheet"
       href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
       integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
-      crossorigin="anonymous"
-    />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
-    integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
+      crossorigin="anonymous"/>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
     crossorigin=""/>
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
     <!-- Make sure you put this AFTER Leaflet's CSS -->
     <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js"
     integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="
@@ -59,9 +61,73 @@
                     <li class="list-group-item">
                         <label for="date">Zip Code (required)</label>
                         <select name="date" id="zipCode">
+                            <option value ="27502">27502</option>
                             <option value ="27511">27511</option>
+                            <option value ="27512">27512</option>
+                            <option value ="27513">27513</option>
+                            <option value ="27518">27518</option>
+                            <option value ="27519">27519</option>
+                            <option value ="27522">27522</option>
+                            <option value ="27523">27523</option>
+                            <option value ="27526">27526</option>
+                            <option value ="27527">27527</option>
+                            <option value ="27529">27529</option>
+                            <option value ="27539">27539</option>
+                            <option value ="27540">27540</option>
+                            <option value ="27545">27545</option>
+                            <option value ="27560">27560</option>
+                            <option value ="27562">27562</option>
+                            <option value ="27571">27571</option>
+                            <option value ="27562">27562</option>                            
+                            <option value ="27587">27587</option>
+                            <option value ="27588">27588</option>
+                            <option value ="27591">27591</option>
+                            <option value ="27592">27592</option>
+                            <option value ="27597">27597</option>
+                            <option value ="27601">27601</option>
+                            <option value ="27602">27602</option>
+                            <option value ="27603">27603</option>
+                            <option value ="27604">27604</option>
+                            <option value ="27605">27605</option>
+                            <option value ="27606">27606</option>
                             <option value ="27607">27607</option>
                             <option value ="27608">27608</option>
+                            <option value ="27609">27609</option>
+                            <option value ="27610">27610</option>
+                            <option value ="27611">27611</option>
+                            <option value ="27612">27612</option>
+                            <option value ="27613">27613</option>
+                            <option value ="27614">27614</option>
+                            <option value ="27615">27615</option>
+                            <option value ="27616">27616</option>
+                            <option value ="27617">27617</option>
+                            <option value ="27619">27619</option>
+                            <option value ="27620">27620</option>
+                            <option value ="27621">27621</option>
+                            <option value ="27622">27622</option>
+                            <option value ="27623">27623</option>
+                            <option value ="27624">27624</option>
+                            <option value ="27625">27625</option>
+                            <option value ="27626">27626</option>
+                            <option value ="27627">27627</option>
+                            <option value ="27628">27628</option>
+                            <option value ="27629">27629</option>
+                            <option value ="27634">27634</option>
+                            <option value ="27635">27635</option>
+                            <option value ="27636">27636</option>
+                            <option value ="27640">27640</option>
+                            <option value ="27650">27650</option>
+                            <option value ="27656">27656</option>
+                            <option value ="27658">27658</option>
+                            <option value ="27661">27661</option>
+                            <option value ="27668">27668</option>
+                            <option value ="27675">27675</option>
+                            <option value ="27676">27676</option>
+                            <option value ="27690">27690</option>
+                            <option value ="27695">27695</option>
+                            <option value ="27697">27697</option>
+                            <option value ="27698">27698</option>
+                            <option value ="27699">27699</option>
                         </select>
                     </li>
                     <li class="list-group-item">
@@ -70,7 +136,6 @@
                             <option value ="SINGLE_FAMILY">Single Family</option>
                             <option value ="TOWNHOUSE">Townhouse</option>
                             <option value ="CONDO">Condominium</option>
-                            <option value ="APARTMENT">Apartment</option>
                             <option value ="LOT">Lot</option>
                         </select>
                     </li>
@@ -118,7 +183,9 @@
         </div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
-    <script src="static/js/data.js"></script>
+    <!-- API key -->
+    <script type="text/javascript" src="static/js/config.js"></script>
+    <!-- Our JavaScript -->
     <script src="static/js/app.js"></script>
 </body>
 </html>
