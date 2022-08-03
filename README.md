@@ -12,4 +12,4 @@ The group as a whole with take on the role of 'X' and decide which technologies 
 
 ## Machine Learning Model
 
-K-means will be used in an unsupervised learning model. 
+Linear regression will be used as the learning model. 
