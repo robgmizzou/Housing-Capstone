@@ -33,5 +33,9 @@ The group as a whole with take on the role of 'X' and decide which technologies 
 
 ## Machine Learning Model
 
+<<<<<<< HEAD
 K-means will be used in an unsupervised learning model. 
 >>>>>>> f0fe1c772d17c1c33497545273c092d0114d809c
+=======
+Linear regression will be used as the learning model. 
+>>>>>>> 869d5e8dff313cc10474529dfcc71499e9ed9b89
