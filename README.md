@@ -1,8 +1,13 @@
 # Housing-Capstone
 
+#### [Tableau Public Dashboard](https://public.tableau.com/app/profile/robert.goldman6612/viz/HousingCapstonev1/PPSFbyZIP) <br>
+
+#### [Google Slides Link](https://docs.google.com/presentation/d/10USQNb0KSiE5zFjwAf4Sc2X2k86vipconO21IdbKrnU/edit?usp=sharing) <br>
+
 [Wake County Housing Market Tableau Public Link](https://public.tableau.com/app/profile/robert.goldman6612/viz/HousingCapstonev1/PricebyZIP#1)
 
 [google slides link](https://docs.google.com/presentation/d/10USQNb0KSiE5zFjwAf4Sc2X2k86vipconO21IdbKrnU/edit?usp=sharing)
+
 
 Team Seven - Marla, Yolanda, Robert<br>
 
@@ -37,6 +42,7 @@ $642,045 = 199,400 + (3 * -44,870) + (3 * -14,150) + (0.71 * 233500) + (2268 * 2
 
 The model can be adapted to drill down to isolate particular zip codes and property types, but as those slices are made from the total sample, we lose strength of fit in the model.  As indicated by such a large span on the confidence of the bathroom feature, our model struggles to narrow the range on this feature.  Cleaner input data would help the model, as would being able to avoid some of the data fill operations mentioned below.
 
+
 Unfortunately the precision of this model is such that no one could use this tool to realistically bid on a property, but as a proof of concept, this model was able to execute the goal of the project.
 
 ### Model Limitations and Opportunities
@@ -45,6 +51,10 @@ Our machine learning model required no nulls, so a choice was required to fill n
 
 Evidence of the fillNA operation can be seen by the cluster of results sitting on the "0" Living Area below:
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/100323377/183260196-c2666610-acac-4144-82ab-2dbf2a9740ac.png"><br>
+
+
+
+
 
 
 

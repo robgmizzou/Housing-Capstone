@@ -29,7 +29,8 @@ CREATE TABLE zillow (
 	zpid FLOAT,
 	bathrooms FLOAT,
 	livingArea FLOAT,
-	PRIMARY KEY (zpid)
+	PRIMARY KEY (zpid),
+	sb_id INT
 );
 
 SELECT COUNT (*) FROM zillow
@@ -37,21 +38,31 @@ SELECT COUNT (*) FROM zillow
 SELECT * FROM zillow
 
 CREATE TABLE starbucks (
-	rowcount INT NOT NULL,
+	sb_id INT NOT NULL,
 	store_name VARCHAR,
 	street_address VARCHAR,
 	city VARCHAR,
 	postcode INT,
 	longitude FLOAT,
 	latitude FLOAT,
-	PRIMARY KEY (rowcount)
+	PRIMARY KEY (sb_id)
 );
 
 SELECT COUNT(*) FROM starbucks
 
 SELECT * FROM starbucks
 
-SELECT zillow.rowcount, zillow.propertytype, zillow.lotareavalue, zillow.address, zillow.price, zillow.bedrooms, zillow.longitude, zillow.latitude, zillow.zpid, zillow.bathrooms, zillow.livingarea
+Select distinct postcode from starbucks, zillow
+where starbucks.postcode IN (select DISTINCT address from zillow)
+
+SELECT postcode
+FROM starbucks
+RIGHT JOIN zillow
+ON starbucks.postcode = zillow.address;
+
+SELECT zillow.rowcount, zillow.propertytype, zillow.lotareavalue, zillow.address, zillow.price, zillow.bedrooms, zillow.longitude, zillow.latitude, zillow.zpid, zillow.bathrooms, zillow.livingarea, zillow.sb_id, starbucks.sb_id, starbucks.store_name
 FROM zillow
-RIGHT JOIN starbucks
-ON zillow.address = starbucks.postcode
+LEFT JOIN starbucks
+ON zillow.sb_id = starbucks.sb_id;
+
+Select * from Zillow;
